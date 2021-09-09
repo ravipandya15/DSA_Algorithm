@@ -1,0 +1,11 @@
+Stack
+used for last in first out
+
+Queue
+used for first in first out
+
+HashSet
+add value and check if it contains
+
+Dictionary - key value pair
+add value and check if it contains
