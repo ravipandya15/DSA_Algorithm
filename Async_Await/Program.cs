@@ -15,12 +15,13 @@ namespace Async_Await
             }
             SaySomething();
             //printSeries(2, 1, 3);
-            Console.WriteLine(result);
+            Console.WriteLine($"Result is {result}");
         }
 
         public static async Task<string> SaySomething()
         {
-            await Task.Delay(5000);
+            //await Task.Delay(5000);
+            //Task.Delay(5000);
             //Thread.Sleep(5000);
             result = "Hello";
             return "World";
