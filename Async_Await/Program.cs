@@ -11,12 +11,12 @@ namespace Async_Await
         {
             if (null > 0)
             {
-                Console.WriteLine("this will not be executed");
-            }
-            SaySomething();
+                Console.WriteLine("this will not be executed");  
+            }   
+            SaySomething(); 
             //printSeries(2, 1, 3);
             Console.WriteLine($"Result is {result}");
-        }
+        }   
 
         public static async Task<string> SaySomething()
         {

@@ -104,15 +104,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{34D872
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement strStr()", "Implement strStr()\Implement strStr().csproj", "{48ED5E07-2048-4247-B529-7ECAD385E7A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "338. Counting Bits", "338. Counting Bits\338. Counting Bits.csproj", "{F80FE3BF-6BB3-44CA-954B-E2D68BEC030F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "338. Counting Bits", "338. Counting Bits\338. Counting Bits.csproj", "{F80FE3BF-6BB3-44CA-954B-E2D68BEC030F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{C5085F1E-DE45-42B0-AB3B-C05B50B47ADF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{C5085F1E-DE45-42B0-AB3B-C05B50B47ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4616AF50-43FE-4DD4-B741-7DF2CD499735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4616AF50-43FE-4DD4-B741-7DF2CD499735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "746. Min Cost Climbing Stairs", "746. Min Cost Climbing Stairs\746. Min Cost Climbing Stairs.csproj", "{1F85D2D9-EAE3-41E1-8D42-86038E87C8BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "746. Min Cost Climbing Stairs", "746. Min Cost Climbing Stairs\746. Min Cost Climbing Stairs.csproj", "{1F85D2D9-EAE3-41E1-8D42-86038E87C8BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121. Best Time to Buy and Sell Stock", "121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "121. Best Time to Buy and Sell Stock", "121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108. Defanging an IP Address", "1108. Defanging an IP Address\1108. Defanging an IP Address.csproj", "{C6AA7BBE-60F3-400A-8C44-6293D60CF579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1528. Shuffle String", "1528. Shuffle String\1528. Shuffle String.csproj", "{7725EE94-0036-4080-A21D-83E282EE2F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse_Click", "Mouse_Click\Mouse_Click.csproj", "{51C3E685-A0C9-4B1D-BD58-007B59E667D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -284,6 +290,18 @@ Global
 		{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AA7BBE-60F3-400A-8C44-6293D60CF579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AA7BBE-60F3-400A-8C44-6293D60CF579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AA7BBE-60F3-400A-8C44-6293D60CF579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AA7BBE-60F3-400A-8C44-6293D60CF579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7725EE94-0036-4080-A21D-83E282EE2F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7725EE94-0036-4080-A21D-83E282EE2F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7725EE94-0036-4080-A21D-83E282EE2F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7725EE94-0036-4080-A21D-83E282EE2F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C3E685-A0C9-4B1D-BD58-007B59E667D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C3E685-A0C9-4B1D-BD58-007B59E667D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C3E685-A0C9-4B1D-BD58-007B59E667D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C3E685-A0C9-4B1D-BD58-007B59E667D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -317,6 +335,8 @@ Global
 		{4616AF50-43FE-4DD4-B741-7DF2CD499735} = {CF418597-32A7-406D-AAED-6361129449ED}
 		{1F85D2D9-EAE3-41E1-8D42-86038E87C8BB} = {CF418597-32A7-406D-AAED-6361129449ED}
 		{5DCA02FD-0A5B-41AA-95B7-A8FC25DCA642} = {5C2593FB-970D-4316-9443-77A327005AE5}
+		{C6AA7BBE-60F3-400A-8C44-6293D60CF579} = {34D8728C-1330-4593-9FF1-B08A754683EF}
+		{7725EE94-0036-4080-A21D-83E282EE2F8D} = {34D8728C-1330-4593-9FF1-B08A754683EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
