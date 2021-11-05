@@ -15,7 +15,9 @@ namespace _118._Pascal_s_Triangle
             }
             Console.ReadLine();
         }
-
+        // if it says to just print 5th row th 3rd column value
+        // then answer is r-1 C c - 1
+        // formula nCr = n!/(r! * (n - r)!)
         public static IList<IList<int>> Generate(int rowNums)
         {
             IList<IList<int>> resultList = new List<IList<int>>();
