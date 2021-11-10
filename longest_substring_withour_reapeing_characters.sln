@@ -136,13 +136,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614. Maximum Nesting Depth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "654. Maximum Binary Tree", "654. Maximum Binary Tree\654. Maximum Binary Tree.csproj", "{E2BEBB3B-DA66-4D8F-B40A-D05EA0281636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. Set Matrix Zeroes", "73. Set Matrix Zeroes\73. Set Matrix Zeroes.csproj", "{0EE276B7-C190-4A9D-9015-52DCE40B8D7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73. Set Matrix Zeroes", "73. Set Matrix Zeroes\73. Set Matrix Zeroes.csproj", "{0EE276B7-C190-4A9D-9015-52DCE40B8D7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Next Permutation", "31. Next Permutation\31. Next Permutation.csproj", "{6D0B213E-819E-4964-8B90-C789141E01C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. Next Permutation", "31. Next Permutation\31. Next Permutation.csproj", "{6D0B213E-819E-4964-8B90-C789141E01C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53. Maximum Subarray", "53. Maximum Subarray\53. Maximum Subarray.csproj", "{BC36BA72-C090-477C-8031-7DF330D5EB7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53. Maximum Subarray", "53. Maximum Subarray\53. Maximum Subarray.csproj", "{BC36BA72-C090-477C-8031-7DF330D5EB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75. Sort Colors", "75. Sort Colors\75. Sort Colors.csproj", "{B8D018C0-53B5-4C77-AFF4-978FA3EAB036}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75. Sort Colors", "75. Sort Colors\75. Sort Colors.csproj", "{B8D018C0-53B5-4C77-AFF4-978FA3EAB036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{5BD79FB6-A25E-4A41-8B63-5FD43757E000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56. Merge Intervals", "56. Merge Intervals\56. Merge Intervals.csproj", "{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{53E10CF3-F563-489B-A5C0-A4994CA50C19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -374,6 +380,18 @@ Global
 		{B8D018C0-53B5-4C77-AFF4-978FA3EAB036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D018C0-53B5-4C77-AFF4-978FA3EAB036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D018C0-53B5-4C77-AFF4-978FA3EAB036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD79FB6-A25E-4A41-8B63-5FD43757E000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD79FB6-A25E-4A41-8B63-5FD43757E000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD79FB6-A25E-4A41-8B63-5FD43757E000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD79FB6-A25E-4A41-8B63-5FD43757E000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E10CF3-F563-489B-A5C0-A4994CA50C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E10CF3-F563-489B-A5C0-A4994CA50C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E10CF3-F563-489B-A5C0-A4994CA50C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E10CF3-F563-489B-A5C0-A4994CA50C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -421,6 +439,9 @@ Global
 		{6D0B213E-819E-4964-8B90-C789141E01C4} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{BC36BA72-C090-477C-8031-7DF330D5EB7E} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{B8D018C0-53B5-4C77-AFF4-978FA3EAB036} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{5BD79FB6-A25E-4A41-8B63-5FD43757E000} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{16DE719D-4B85-47F3-BAEA-6A1F71106C8A} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{53E10CF3-F563-489B-A5C0-A4994CA50C19} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
