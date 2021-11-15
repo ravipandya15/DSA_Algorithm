@@ -4,6 +4,8 @@ namespace Search_2D_Matrix
 {
     class Program
     {
+        // time complexity -> O(log 2(M*N))
+        // space complexity -> O(1)
         public static bool SearchMatrix(int[,] matrix, int target)
         {
             int n = matrix.GetLength(0);
@@ -12,7 +14,8 @@ namespace Search_2D_Matrix
             int i = 0, j = 0;
             while (low <= high)
             {
-                int mid = (low + high) / 2;
+                //int mid = (low + high) / 2;
+                int mid = (low + (high - low) / 2); // it's better than above as to reduce overflow.
                 i = mid / m;
                 j = mid % m;
                 if (matrix[i, j] == target)
