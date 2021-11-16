@@ -146,17 +146,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75. Sort Colors", "75. Sort
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{5BD79FB6-A25E-4A41-8B63-5FD43757E000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56. Merge Intervals", "56. Merge Intervals\56. Merge Intervals.csproj", "{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "56. Merge Intervals", "56. Merge Intervals\56. Merge Intervals.csproj", "{16DE719D-4B85-47F3-BAEA-6A1F71106C8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{53E10CF3-F563-489B-A5C0-A4994CA50C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{53E10CF3-F563-489B-A5C0-A4994CA50C19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287. Find the Duplicate Number", "287. Find the Duplicate Number\287. Find the Duplicate Number.csproj", "{5DFA3968-111C-40FE-BCC9-9DFB2C749C69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "287. Find the Duplicate Number", "287. Find the Duplicate Number\287. Find the Duplicate Number.csproj", "{5DFA3968-111C-40FE-BCC9-9DFB2C749C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inversion of Array", "inversion of Array\inversion of Array.csproj", "{3B5F09A1-9C22-4DA6-87A5-49749CD008CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inversion of Array", "inversion of Array\inversion of Array.csproj", "{3B5F09A1-9C22-4DA6-87A5-49749CD008CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50. Pow(x, n)", "50. Pow(x, n)\50. Pow(x, n).csproj", "{CCF6A25D-7698-4171-BE9E-31FB53F5622D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50. Pow(x, n)", "50. Pow(x, n)\50. Pow(x, n).csproj", "{CCF6A25D-7698-4171-BE9E-31FB53F5622D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{90A4798D-E6B1-49BC-AC6F-765C0CF25174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{90A4798D-E6B1-49BC-AC6F-765C0CF25174}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leap Year", "Leap Year\Leap Year.csproj", "{846EB514-AEED-430A-98C0-E62A35F0BC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "229. Majority Element II", "229. Majority Element II\229. Majority Element II.csproj", "{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62. Unique Paths", "62. Unique Paths\62. Unique Paths.csproj", "{5F279197-C035-49EA-9F0F-D87EB8A2FB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "493. Reverse Pairs", "493. Reverse Pairs\493. Reverse Pairs.csproj", "{3634F586-26F6-4AE5-B86F-EE95E7781EFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -416,6 +424,22 @@ Global
 		{90A4798D-E6B1-49BC-AC6F-765C0CF25174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90A4798D-E6B1-49BC-AC6F-765C0CF25174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90A4798D-E6B1-49BC-AC6F-765C0CF25174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846EB514-AEED-430A-98C0-E62A35F0BC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846EB514-AEED-430A-98C0-E62A35F0BC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846EB514-AEED-430A-98C0-E62A35F0BC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846EB514-AEED-430A-98C0-E62A35F0BC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F279197-C035-49EA-9F0F-D87EB8A2FB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F279197-C035-49EA-9F0F-D87EB8A2FB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F279197-C035-49EA-9F0F-D87EB8A2FB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F279197-C035-49EA-9F0F-D87EB8A2FB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3634F586-26F6-4AE5-B86F-EE95E7781EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3634F586-26F6-4AE5-B86F-EE95E7781EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3634F586-26F6-4AE5-B86F-EE95E7781EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3634F586-26F6-4AE5-B86F-EE95E7781EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -469,6 +493,9 @@ Global
 		{5DFA3968-111C-40FE-BCC9-9DFB2C749C69} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{3B5F09A1-9C22-4DA6-87A5-49749CD008CF} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{90A4798D-E6B1-49BC-AC6F-765C0CF25174} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{AE41CDAC-48FA-4BA6-A4EE-5E0C6CBEB637} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{5F279197-C035-49EA-9F0F-D87EB8A2FB4F} = {5C2593FB-970D-4316-9443-77A327005AE5}
+		{3634F586-26F6-4AE5-B86F-EE95E7781EFE} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
