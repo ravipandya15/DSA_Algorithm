@@ -38,7 +38,7 @@ namespace LinkedList_Cycle
         }
 
         // using HashSet -> time complexity O(n) , space complexity O(n)
-        public bool HasCycle(ListNode head)
+        public bool HasCycle1(ListNode head)
         {
             HashSet<ListNode> nodeSeen = new HashSet<ListNode>();
             while (head != null)
@@ -58,6 +58,7 @@ namespace LinkedList_Cycle
             ListNode result = null;
             int index = 0;
             Dictionary<int, ListNode> nodeSeen = new Dictionary<int, ListNode>();
+            // if we just want to return node then we can use HashSet instead of Dictionary
             while (head != null)
             {
                 if (nodeSeen.ContainsValue(head))
@@ -70,6 +71,40 @@ namespace LinkedList_Cycle
                 index++;
             }
             return result;
+        }
+
+        public ListNode HasCycleWithHashSet(ListNode head)
+        {
+            HashSet<ListNode> nodeSeen = new HashSet<ListNode>();
+            while (head != null)
+            {
+                if (nodeSeen.Contains(head))
+                {
+                    return head;
+                }
+                nodeSeen.Add(head);
+                head = head.next;
+            }
+            return head; // or NULL as head will become null
+        }
+
+        public bool HasCycle(ListNode head)
+        {
+            if (head == null || head.next == null)
+                return false;
+
+            ListNode slow = head;
+            ListNode fast = head;
+
+            while (fast.next != null && fast.next.next != null)
+            {
+                fast = fast.next.next; // as fast.next.next should not be null otherwise will throw null pointer exception
+                slow = slow.next;
+                if (fast == slow)
+                    return true;
+            }
+
+            return false;
         }
 
         // Floyd's Cycle finding algorithm -> time complexity O(n) , space complexity O(1)

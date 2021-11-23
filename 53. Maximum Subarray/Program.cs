@@ -7,7 +7,8 @@ namespace _53._Maximum_Subarray
         static void Main(string[] args)
         {
             Console.WriteLine("53. Maximum Subarray");
-            int[] nums = new int[] { 5, 4, -1, 7, 8 };
+            //int[] nums = new int[] { 5, 4, -1, 7, 8 };
+            int[] nums = new int[] { -5, -4, -3, -2, -1 };
             Console.WriteLine($"result is {MaxSubArray(nums)}");
             Console.ReadLine();
         }

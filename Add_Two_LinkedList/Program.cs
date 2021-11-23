@@ -32,7 +32,41 @@ namespace Add_Two_LinkedList
             }
         }
 
+        // better way
+        // TC -> O(max(n1 + n2))
+        // SC -> O(n) -> n is length of new linked List
         public static ListNode AddTwoNumbers(ListNode l1, ListNode l2)
+        {
+            ListNode dummy = new ListNode(0);
+            ListNode tmp = dummy;
+            int carry = 0;
+
+            while (l1 != null || l2 != null || carry == 1)
+            {
+                int sum = 0;
+                if (l1 != null)
+                {
+                    sum += l1.val;
+                    l1 = l1.next;
+                }
+
+                if (l2 != null)
+                {
+                    sum += l2.val;
+                    l2 = l2.next;
+                }
+
+                sum += carry;
+                carry = sum / 10;
+                ListNode next = new ListNode(sum % 10);
+                tmp.next = next;
+                tmp = next;
+            }
+
+            return dummy.next;
+        }
+
+        public static ListNode AddTwoNumbers1(ListNode l1, ListNode l2)
         {
             ListNode resultNode = new ListNode();
             ListNode prevNode = null;

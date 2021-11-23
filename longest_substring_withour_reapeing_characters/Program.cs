@@ -10,27 +10,64 @@ namespace longest_substring_withour_reapeing_characters
         {
             Console.WriteLine("Hello World!");
             string inputString = "dvdf";
-            Dictionary<char, int> result = new Dictionary<char, int>();
-            HashSet<string> tempSet = new HashSet<string>();
-            int max = 0, i = 0, j = 0;
-            for (j = 0; j < inputString.Length; j++)
+            
+            Console.WriteLine($"Max Count is {LengthOfLongestSubstring("abcaabcdba")}");
+            Console.ReadLine();
+        }
+
+        // Sliding window
+        // time complexity -> O(2N)
+        // space complexity -> O(N)
+        public static int LengthOfLongestSubstring1(string s)
+        {
+            int left = 0, right = 0;
+            int len = 0;
+            int n = s.Length;
+            HashSet<int> hashSet = new HashSet<int>();
+
+            while (right < n)
             {
-                if (result.TryGetValue(inputString[j], out int tempResult))
+                while (hashSet.Contains(s[right]))
                 {
-                    i = Math.Max(i, tempResult);
-                    result[inputString[j]] = j + 1;
+                    hashSet.Remove(s[left]);
+                    left++;
+                }
+
+                hashSet.Add(s[right]);
+                len = Math.Max(len, right - left + 1);
+                right++;
+            }
+
+            return len;
+        }
+
+        // most optimal -> improvement on sliding window
+        // time complexity -> O(N)
+        // space complexity -> O(N)
+        public static int LengthOfLongestSubstring(string s)
+        {
+            int left = 0, right = 0;
+            int len = 0;
+            int n = s.Length;
+            Dictionary<char, int> hashMap = new Dictionary<char, int>();
+
+            while (right < n)
+            {
+                if (hashMap.TryGetValue(s[right], out int temp))
+                {
+                    left = Math.Max(left, temp + 1);
+                    hashMap[s[right]] = right;
                 }
                 else
                 {
-                    result.Add(inputString[j], j + 1);
+                    hashMap.Add(s[right], right);
                 }
 
-                max = Math.Max(max, j- i + 1);
+                len = Math.Max(len, right - left + 1);
+                right++;
             }
 
-            
-            Console.WriteLine("Max Count is " + max);
-            Console.ReadLine();
+            return len;
         }
     }
 }
