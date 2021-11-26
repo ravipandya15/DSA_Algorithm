@@ -9,10 +9,10 @@ namespace LinkedList_Cycle
     {
         public int val;
         public ListNode next;
-        public ListNode(int x)
+        public ListNode(int val = 0, ListNode next = null)
         {
-            val = x;
-            next = null;
+            this.val = val;
+            this.next = next;
         }
     }
     class Program

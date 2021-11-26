@@ -14,10 +14,10 @@ namespace _160._Intersection_of_Two_Linked_Lists
         {
             public int val;
             public ListNode next;
-            public ListNode(int x = 0, ListNode next = null)
+            public ListNode(int val = 0, ListNode next = null)
             {
-                val = x;
-                next = null;
+                this.val = val;
+                this.next = next;
             }
         }
 

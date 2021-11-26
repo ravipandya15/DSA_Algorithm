@@ -29,6 +29,8 @@ namespace _15._3Sum
             Console.ReadLine();
         }
 
+        // tc  -> O(N^2)
+        // SC -> O(1)
         public static IList<IList<int>> ThreeSum(int[] nums)
         {
             IList<IList<int>> resultList = new List<IList<int>>();
@@ -47,7 +49,7 @@ namespace _15._3Sum
                         int sum = nums[i] + nums[start] + nums[end];
                         if (sum == 0)
                         {
-                            List<int> tempList = new List<int> { nums[i], nums[start], nums[end] };
+                            //List<int> tempList = new List<int> { nums[i], nums[start], nums[end] };
                             resultList.Add(new List<int> { nums[i], nums[start], nums[end] });
                             while (start < end && nums[start] == nums[start + 1])
                             {

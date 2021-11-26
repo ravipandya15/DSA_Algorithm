@@ -14,10 +14,10 @@ namespace _237._Delete_Node_in_a_Linked_List
         {
             public int val;
             public ListNode next;
-            public ListNode(int x = 0, ListNode next = null)
+            public ListNode(int val = 0, ListNode next = null)
             {
-                val = x;
-                next = null;
+                this.val = val;
+                this.next = next;
             }
         }
 
