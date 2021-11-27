@@ -198,19 +198,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "234. Palindrome Linked List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "142. Linked List Cycle II", "142. Linked List Cycle II\142. Linked List Cycle II.csproj", "{31B3331B-EA8C-4CFD-A4D1-3D86BBDD891D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(GFG - Medium) Flattening a Linked List", "(GFG - Medium) Flattening a Linked List\(GFG - Medium) Flattening a Linked List.csproj", "{DF9850B0-A242-4A30-820D-A1058B0415E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(GFG - Medium) Flattening a Linked List", "(GFG - Medium) Flattening a Linked List\(GFG - Medium) Flattening a Linked List.csproj", "{DF9850B0-A242-4A30-820D-A1058B0415E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. Rotate List", "61. Rotate List\61. Rotate List.csproj", "{CB89DA29-6412-46DC-8BF5-92862010DB78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61. Rotate List", "61. Rotate List\61. Rotate List.csproj", "{CB89DA29-6412-46DC-8BF5-92862010DB78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189. Rotate Array", "189. Rotate Array\189. Rotate Array.csproj", "{F8AA6BBD-1B59-4898-A2EA-8335BC500715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "189. Rotate Array", "189. Rotate Array\189. Rotate Array.csproj", "{F8AA6BBD-1B59-4898-A2EA-8335BC500715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "138. Copy List with Random Pointer", "138. Copy List with Random Pointer\138. Copy List with Random Pointer.csproj", "{749C73E6-B59E-4085-8D67-49D595A64510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "138. Copy List with Random Pointer", "138. Copy List with Random Pointer\138. Copy List with Random Pointer.csproj", "{749C73E6-B59E-4085-8D67-49D595A64510}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bitwise", "Bitwise", "{DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{03D2C01B-3F52-44CC-82C6-88EB8F0D0CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{03D2C01B-3F52-44CC-82C6-88EB8F0D0CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281. Subtract the Product and Sum of Digits of an Integer", "1281. Subtract the Product and Sum of Digits of an Integer\1281. Subtract the Product and Sum of Digits of an Integer.csproj", "{6079962E-FF0A-4C16-B48E-21B7C53DA39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281. Subtract the Product and Sum of Digits of an Integer", "1281. Subtract the Product and Sum of Digits of an Integer\1281. Subtract the Product and Sum of Digits of an Integer.csproj", "{6079962E-FF0A-4C16-B48E-21B7C53DA39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "485. Max Consecutive Ones", "485. Max Consecutive Ones\485. Max Consecutive Ones.csproj", "{1E8F567E-0788-4911-82D9-58762FF152D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{0619B463-5B5B-4BAC-B2D3-77C1F363F391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{E264AC2E-1AE2-414F-B58B-9256DC23D546}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Normal Questions", "Normal Questions", "{EC18A02A-024A-4092-AB04-8EF46D363852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231. Power of Two", "231. Power of Two\231. Power of Two.csproj", "{53538883-5F4E-4870-801E-98A1B5427E48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -566,6 +576,22 @@ Global
 		{6079962E-FF0A-4C16-B48E-21B7C53DA39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6079962E-FF0A-4C16-B48E-21B7C53DA39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6079962E-FF0A-4C16-B48E-21B7C53DA39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8F567E-0788-4911-82D9-58762FF152D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8F567E-0788-4911-82D9-58762FF152D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8F567E-0788-4911-82D9-58762FF152D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8F567E-0788-4911-82D9-58762FF152D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0619B463-5B5B-4BAC-B2D3-77C1F363F391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0619B463-5B5B-4BAC-B2D3-77C1F363F391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0619B463-5B5B-4BAC-B2D3-77C1F363F391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0619B463-5B5B-4BAC-B2D3-77C1F363F391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E264AC2E-1AE2-414F-B58B-9256DC23D546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E264AC2E-1AE2-414F-B58B-9256DC23D546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E264AC2E-1AE2-414F-B58B-9256DC23D546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E264AC2E-1AE2-414F-B58B-9256DC23D546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53538883-5F4E-4870-801E-98A1B5427E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53538883-5F4E-4870-801E-98A1B5427E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53538883-5F4E-4870-801E-98A1B5427E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53538883-5F4E-4870-801E-98A1B5427E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -642,7 +668,11 @@ Global
 		{F8AA6BBD-1B59-4898-A2EA-8335BC500715} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{749C73E6-B59E-4085-8D67-49D595A64510} = {752CFE8E-75E8-4417-9179-F959A2DEEBF7}
 		{03D2C01B-3F52-44CC-82C6-88EB8F0D0CF0} = {DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}
-		{6079962E-FF0A-4C16-B48E-21B7C53DA39D} = {DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}
+		{6079962E-FF0A-4C16-B48E-21B7C53DA39D} = {EC18A02A-024A-4092-AB04-8EF46D363852}
+		{1E8F567E-0788-4911-82D9-58762FF152D2} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{0619B463-5B5B-4BAC-B2D3-77C1F363F391} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{E264AC2E-1AE2-414F-B58B-9256DC23D546} = {DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}
+		{53538883-5F4E-4870-801E-98A1B5427E48} = {EC18A02A-024A-4092-AB04-8EF46D363852}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
