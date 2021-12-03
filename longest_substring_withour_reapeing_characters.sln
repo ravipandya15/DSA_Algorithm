@@ -212,15 +212,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "191. Number of 1 Bits", "19
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281. Subtract the Product and Sum of Digits of an Integer", "1281. Subtract the Product and Sum of Digits of an Integer\1281. Subtract the Product and Sum of Digits of an Integer.csproj", "{6079962E-FF0A-4C16-B48E-21B7C53DA39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "485. Max Consecutive Ones", "485. Max Consecutive Ones\485. Max Consecutive Ones.csproj", "{1E8F567E-0788-4911-82D9-58762FF152D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "485. Max Consecutive Ones", "485. Max Consecutive Ones\485. Max Consecutive Ones.csproj", "{1E8F567E-0788-4911-82D9-58762FF152D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{0619B463-5B5B-4BAC-B2D3-77C1F363F391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{0619B463-5B5B-4BAC-B2D3-77C1F363F391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{E264AC2E-1AE2-414F-B58B-9256DC23D546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{E264AC2E-1AE2-414F-B58B-9256DC23D546}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Normal Questions", "Normal Questions", "{EC18A02A-024A-4092-AB04-8EF46D363852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231. Power of Two", "231. Power of Two\231. Power of Two.csproj", "{53538883-5F4E-4870-801E-98A1B5427E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231. Power of Two", "231. Power of Two\231. Power of Two.csproj", "{53538883-5F4E-4870-801E-98A1B5427E48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Greedy", "Greedy", "{4C2C9674-EEBF-4C64-A11F-ED3E4B974A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG) N meetings in one room", "GFG) N meetings in one room\GFG) N meetings in one room.csproj", "{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG) Minimum Platforms", "GFG) Minimum Platforms\GFG) Minimum Platforms.csproj", "{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG) Job Sequencing Problem", "GFG) Job Sequencing Problem\GFG) Job Sequencing Problem.csproj", "{1FBAF146-D096-422D-976D-2692252CCF70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -592,6 +600,18 @@ Global
 		{53538883-5F4E-4870-801E-98A1B5427E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53538883-5F4E-4870-801E-98A1B5427E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53538883-5F4E-4870-801E-98A1B5427E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBAF146-D096-422D-976D-2692252CCF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBAF146-D096-422D-976D-2692252CCF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBAF146-D096-422D-976D-2692252CCF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBAF146-D096-422D-976D-2692252CCF70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -673,6 +693,9 @@ Global
 		{0619B463-5B5B-4BAC-B2D3-77C1F363F391} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
 		{E264AC2E-1AE2-414F-B58B-9256DC23D546} = {DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}
 		{53538883-5F4E-4870-801E-98A1B5427E48} = {EC18A02A-024A-4092-AB04-8EF46D363852}
+		{8FA21EF0-2020-4EDC-A6A0-1DF0DFE087C6} = {4C2C9674-EEBF-4C64-A11F-ED3E4B974A03}
+		{DF047EC3-AF5B-4CF0-AD0A-9CFBCAC1C3EF} = {4C2C9674-EEBF-4C64-A11F-ED3E4B974A03}
+		{1FBAF146-D096-422D-976D-2692252CCF70} = {4C2C9674-EEBF-4C64-A11F-ED3E4B974A03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
