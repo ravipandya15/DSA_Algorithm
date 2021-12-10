@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_50._Pow_x__n_</RootNamespace>
+    <RootNamespace>CN__First_and_Last_position_of_an_Element_in_Sorted_Array</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\GFG) Subset Sum\GFG) Subset Sum.csproj" />
-  </ItemGroup>
 
 </Project>

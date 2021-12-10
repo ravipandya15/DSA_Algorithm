@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_50._Pow_x__n_</RootNamespace>
+    <RootNamespace>_852._Peak_Index_in_a_Mountain_Array</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\GFG) Subset Sum\GFG) Subset Sum.csproj" />
-  </ItemGroup>
 
 </Project>
