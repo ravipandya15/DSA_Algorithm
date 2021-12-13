@@ -286,11 +286,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN) Bubble Sort", "CN) Bubb
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion and Backtracking", "Recursion and Backtracking", "{D3FEAA23-D15F-4EAF-A41D-A113E8D273D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{6ED80D67-CC29-4A87-AC16-6B0E29D08812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{6ED80D67-CC29-4A87-AC16-6B0E29D08812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. Sudoku Solver", "37. Sudoku Solver\37. Sudoku Solver.csproj", "{F838416C-9893-48A1-B8B6-1EA5BD496DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37. Sudoku Solver", "37. Sudoku Solver\37. Sudoku Solver.csproj", "{F838416C-9893-48A1-B8B6-1EA5BD496DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M-Coloring Problem", "M-Coloring Problem\M-Coloring Problem.csproj", "{AB99E0D7-7E8D-413A-ACD7-388C44E54987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M-Coloring Problem", "M-Coloring Problem\M-Coloring Problem.csproj", "{AB99E0D7-7E8D-413A-ACD7-388C44E54987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG) Rat in a Maze Problem - I", "GFG) Rat in a Maze Problem - I\GFG) Rat in a Maze Problem - I.csproj", "{A6DD46AE-B6A1-4347-8715-910B7C2D897A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -782,6 +784,10 @@ Global
 		{AB99E0D7-7E8D-413A-ACD7-388C44E54987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB99E0D7-7E8D-413A-ACD7-388C44E54987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB99E0D7-7E8D-413A-ACD7-388C44E54987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DD46AE-B6A1-4347-8715-910B7C2D897A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DD46AE-B6A1-4347-8715-910B7C2D897A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DD46AE-B6A1-4347-8715-910B7C2D897A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DD46AE-B6A1-4347-8715-910B7C2D897A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -893,6 +899,7 @@ Global
 		{6ED80D67-CC29-4A87-AC16-6B0E29D08812} = {D3FEAA23-D15F-4EAF-A41D-A113E8D273D3}
 		{F838416C-9893-48A1-B8B6-1EA5BD496DF0} = {D3FEAA23-D15F-4EAF-A41D-A113E8D273D3}
 		{AB99E0D7-7E8D-413A-ACD7-388C44E54987} = {D3FEAA23-D15F-4EAF-A41D-A113E8D273D3}
+		{A6DD46AE-B6A1-4347-8715-910B7C2D897A} = {D3FEAA23-D15F-4EAF-A41D-A113E8D273D3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
