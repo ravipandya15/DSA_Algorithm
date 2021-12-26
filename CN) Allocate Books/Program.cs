@@ -10,9 +10,10 @@ namespace CN__Allocate_Books
             Console.WriteLine("Allocate Books");
             //int[] arr = { 10, 20, 30, 40 };
             //int[] arr = { 20, 10, 30, 40 };
-            int[] arr = { 20, 10, 40, 30 };
+            //int[] arr = { 20, 10, 40, 30 };
+            int[] arr = { 31, 14, 19, 75 };
             int n = 4; // no of books -> Length of array
-            int m = 2; // no. of student
+            int m = 12; // no. of student
             Console.WriteLine($"Answer is {allocateBooks(arr, n, m)}");
             Console.ReadLine();
         }
@@ -44,7 +45,8 @@ namespace CN__Allocate_Books
 
         public static int allocateBooks(int[] arr, int n, int m)
         {
-            int start = 0;
+            if (m > arr.Length) return -1; // this condition was missed
+            int start = 0; // start can be min of arr. -> will be good
             int sum = 0;
             for (int i = 0; i < n; i++)
             {

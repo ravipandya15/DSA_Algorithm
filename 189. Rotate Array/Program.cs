@@ -17,6 +17,10 @@ namespace _189._Rotate_Array
             }
             Console.ReadLine();
         }
+        // can also do by using extra array
+        // and
+        // temp[(i+k)%n] = nums[i];
+        // copy temp to nums
 
         public static void Rotate(int[] nums, int k)
         {

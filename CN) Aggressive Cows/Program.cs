@@ -39,6 +39,8 @@ namespace CN__Aggressive_Cows
             stalls.Sort();
             int start = 0;
             int maxi = -1;
+
+            // don't require for loop as we already sort list so last element will be maximun
             for (int i = 0; i < stalls.Count; i++)
             {
                 maxi = Math.Max(maxi, stalls[i]);

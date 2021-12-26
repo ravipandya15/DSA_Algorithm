@@ -11,19 +11,18 @@ namespace Search_2D_Matrix
             int n = matrix.GetLength(0);
             int m = matrix.GetLength(1);
             int low = 0, high = n * m - 1;
-            int i = 0, j = 0;
+            //int mid = (low + high) / 2; or (low + high) >> 1;
+            int mid = low + (high - low) / 2; // it's better than above as to reduce overflow.
+
             while (low <= high)
             {
-                //int mid = (low + high) / 2;
-                int mid = (low + (high - low) / 2); // it's better than above as to reduce overflow.
-                i = mid / m;
-                j = mid % m;
-                if (matrix[i, j] == target)
+                int element = matrix[mid / m, mid % m];
+                if (element == target)
                 {
-                    Console.WriteLine($"x is {i}. y is {j}");
+                    //Console.WriteLine($"x is {i}. y is {j}");
                     return true;
                 }
-                if (target > matrix[i, j])
+                if (element < target)
                 {
                     low = mid + 1;
                 }
@@ -31,6 +30,7 @@ namespace Search_2D_Matrix
                 {
                     high = mid - 1;
                 }
+                mid = low + (high - low) / 2;
             }
             return false;
         }
