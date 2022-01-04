@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_700._Search_in_a_Binary_Search_Tree</RootNamespace>
+  </PropertyGroup>
+
+</Project>

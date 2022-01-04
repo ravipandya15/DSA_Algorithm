@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_863._All_Nodes_Distance_K_in_Binary_Tree</RootNamespace>
+  </PropertyGroup>
+
+</Project>
