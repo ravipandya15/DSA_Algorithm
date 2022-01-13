@@ -25,6 +25,15 @@ namespace GFG__Rat_in_a_Maze_Problem___I
             IList<string> ans = new List<string>();
             int[,] visited = new int[n, n];
             string move = "";
+
+            // DLRU
+            // X - axis is !
+            //             !
+            //             !
+            //             !
+
+            // Y - axis is ------>
+
             int[] di = { 1, 0, 0, -1 };
             int[] dj = { 0, -1, 1, 0 };
             if (m[0][0] == 1) Solve(0, 0, m, visited, di, dj, move, n, ans);

@@ -336,7 +336,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "994. Rotting Oranges", "994
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344. Reverse String and 541. Reverse String II", "344. Reverse String and 541. Reverse String II\344. Reverse String and 541. Reverse String II.csproj", "{7362D28D-3482-45C3-827F-AFB0402EB093}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check If The String Is A Palindrome", "Check If The String Is A Palindrome\Check If The String Is A Palindrome.csproj", "{5F93011F-7BF2-4133-B8F0-2E01372E4D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "125_Check If The String Is A Palindrome", "Check If The String Is A Palindrome\125_Check If The String Is A Palindrome.csproj", "{5F93011F-7BF2-4133-B8F0-2E01372E4D5D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "680. Valid Palindrome II", "680. Valid Palindrome II\680. Valid Palindrome II.csproj", "{A5E98E92-64C4-4DCF-8C64-4F67E34A4A23}"
 EndProject
@@ -380,73 +380,113 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator_Version_PreOrder_P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{7EC15EAE-DB2E-4586-B11B-B6CA66C98331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrder_InOrder_PostOrder_In_One Code", "PreOrder_InOrder_PostOrder_In_One Code\PreOrder_InOrder_PostOrder_In_One Code.csproj", "{2D342DA5-5AB4-4785-84BC-C0993A1C162B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreOrder_InOrder_PostOrder_In_One Code", "PreOrder_InOrder_PostOrder_In_One Code\PreOrder_InOrder_PostOrder_In_One Code.csproj", "{2D342DA5-5AB4-4785-84BC-C0993A1C162B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{DB4E2587-12B7-4BE1-9D1F-ED525B04BA91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{DB4E2587-12B7-4BE1-9D1F-ED525B04BA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "110. Balanced Binary Tree", "110. Balanced Binary Tree\110. Balanced Binary Tree.csproj", "{D9EA53F3-6904-4B14-A864-A859E1832D28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "110. Balanced Binary Tree", "110. Balanced Binary Tree\110. Balanced Binary Tree.csproj", "{D9EA53F3-6904-4B14-A864-A859E1832D28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543. Diameter of Binary Tree", "543. Diameter of Binary Tree\543. Diameter of Binary Tree.csproj", "{F0850BAA-6EC3-42AC-8AA5-89C1D8E7731E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "543. Diameter of Binary Tree", "543. Diameter of Binary Tree\543. Diameter of Binary Tree.csproj", "{F0850BAA-6EC3-42AC-8AA5-89C1D8E7731E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "124. Binary Tree Maximum Path Sum", "124. Binary Tree Maximum Path Sum\124. Binary Tree Maximum Path Sum.csproj", "{FEEC53D9-374C-4E1C-96EB-5568D2BB538D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "124. Binary Tree Maximum Path Sum", "124. Binary Tree Maximum Path Sum\124. Binary Tree Maximum Path Sum.csproj", "{FEEC53D9-374C-4E1C-96EB-5568D2BB538D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{ABFC23C5-1892-4228-ACD2-37514FDF73A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{ABFC23C5-1892-4228-ACD2-37514FDF73A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103. Binary Tree Zigzag Level Order Traversal", "103. Binary Tree Zigzag Level Order Traversal\103. Binary Tree Zigzag Level Order Traversal.csproj", "{5CF17D00-1528-4B39-84A7-E6FC5B7B045E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "103. Binary Tree Zigzag Level Order Traversal", "103. Binary Tree Zigzag Level Order Traversal\103. Binary Tree Zigzag Level Order Traversal.csproj", "{5CF17D00-1528-4B39-84A7-E6FC5B7B045E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_LeetCode) Boundary Traversal", "CN_LeetCode) Boundary Traversal\CN_LeetCode) Boundary Traversal.csproj", "{5946A747-7932-458F-847E-32BAB581E2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_LeetCode) Boundary Traversal", "CN_LeetCode) Boundary Traversal\CN_LeetCode) Boundary Traversal.csproj", "{5946A747-7932-458F-847E-32BAB581E2CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "987. Vertical Order Traversal of a Binary Tree", "987. Vertical Order Traversal of a Binary Tree\987. Vertical Order Traversal of a Binary Tree.csproj", "{7129A438-4657-4A95-8EB4-1C12A507F888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "987. Vertical Order Traversal of a Binary Tree", "987. Vertical Order Traversal of a Binary Tree\987. Vertical Order Traversal of a Binary Tree.csproj", "{7129A438-4657-4A95-8EB4-1C12A507F888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top View Of The Tree", "Top View Of The Tree\Top View Of The Tree.csproj", "{20226E99-260F-4096-8F84-28242519A998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Top View Of The Tree", "Top View Of The Tree\Top View Of The Tree.csproj", "{20226E99-260F-4096-8F84-28242519A998}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bottom View Of Binary Tree", "Bottom View Of Binary Tree\Bottom View Of Binary Tree.csproj", "{F7E06255-300D-4191-B6D6-7910A8277205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bottom View Of Binary Tree", "Bottom View Of Binary Tree\Bottom View Of Binary Tree.csproj", "{F7E06255-300D-4191-B6D6-7910A8277205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "199. Binary Tree Right Side View CN) Left View", "199. Binary Tree Right Side View CN) Left View\199. Binary Tree Right Side View CN) Left View.csproj", "{EDEC69B2-3CEF-4689-9626-55EAA46889AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "199. Binary Tree Right Side View CN) Left View", "199. Binary Tree Right Side View CN) Left View\199. Binary Tree Right Side View CN) Left View.csproj", "{EDEC69B2-3CEF-4689-9626-55EAA46889AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101. Symmetric Tree", "101. Symmetric Tree\101. Symmetric Tree.csproj", "{DBF6C1DF-F917-4AEE-B5C8-48F63230C062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "101. Symmetric Tree", "101. Symmetric Tree\101. Symmetric Tree.csproj", "{DBF6C1DF-F917-4AEE-B5C8-48F63230C062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview_bit_Path_To_Given_Node", "Interview_bit_Path_To_Given_Node\Interview_bit_Path_To_Given_Node.csproj", "{A5EBCF8D-7C6A-4DAA-A3AE-30F3FB0F7A42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interview_bit_Path_To_Given_Node", "Interview_bit_Path_To_Given_Node\Interview_bit_Path_To_Given_Node.csproj", "{A5EBCF8D-7C6A-4DAA-A3AE-30F3FB0F7A42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236. Lowest Common Ancestor of a Binary Tree", "236. Lowest Common Ancestor of a Binary Tree\236. Lowest Common Ancestor of a Binary Tree.csproj", "{DFCC557C-4EEC-4450-A9F8-7F349345666B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "236. Lowest Common Ancestor of a Binary Tree", "236. Lowest Common Ancestor of a Binary Tree\236. Lowest Common Ancestor of a Binary Tree.csproj", "{DFCC557C-4EEC-4450-A9F8-7F349345666B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "662. Maximum Width of Binary Tree", "662. Maximum Width of Binary Tree\662. Maximum Width of Binary Tree.csproj", "{88028B7A-2766-43CB-AF91-761700EE7467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "662. Maximum Width of Binary Tree", "662. Maximum Width of Binary Tree\662. Maximum Width of Binary Tree.csproj", "{88028B7A-2766-43CB-AF91-761700EE7467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Children Sum Property", "Children Sum Property\Children Sum Property.csproj", "{A0197756-6995-4D31-A2D7-0F626DC21C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Children Sum Property", "Children Sum Property\Children Sum Property.csproj", "{A0197756-6995-4D31-A2D7-0F626DC21C2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "863. All Nodes Distance K in Binary Tree", "863. All Nodes Distance K in Binary Tree\863. All Nodes Distance K in Binary Tree.csproj", "{C515F609-5FDF-4013-8D76-97D5B0F45CD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "863. All Nodes Distance K in Binary Tree", "863. All Nodes Distance K in Binary Tree\863. All Nodes Distance K in Binary Tree.csproj", "{C515F609-5FDF-4013-8D76-97D5B0F45CD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time To Burn Tree", "Time To Burn Tree\Time To Burn Tree.csproj", "{858F5C7E-3DC6-494F-B813-F304310FB29E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time To Burn Tree", "Time To Burn Tree\Time To Burn Tree.csproj", "{858F5C7E-3DC6-494F-B813-F304310FB29E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "222. Count Complete Tree Nodes", "222. Count Complete Tree Nodes\222. Count Complete Tree Nodes.csproj", "{013F9149-EB5A-4638-915A-6258868DE8BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "222. Count Complete Tree Nodes", "222. Count Complete Tree Nodes\222. Count Complete Tree Nodes.csproj", "{013F9149-EB5A-4638-915A-6258868DE8BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "105. Construct Binary Tree from Preorder and Inorder Traversal", "105. Construct Binary Tree from Preorder and Inorder Traversal\105. Construct Binary Tree from Preorder and Inorder Traversal.csproj", "{3EB9547B-51A1-4661-96C2-751683444DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "105. Construct Binary Tree from Preorder and Inorder Traversal", "105. Construct Binary Tree from Preorder and Inorder Traversal\105. Construct Binary Tree from Preorder and Inorder Traversal.csproj", "{3EB9547B-51A1-4661-96C2-751683444DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106. Construct Binary Tree from Inorder and Postorder Traversal", "106. Construct Binary Tree from Inorder and Postorder Traversal\106. Construct Binary Tree from Inorder and Postorder Traversal.csproj", "{20BC907A-BA2C-4528-B0C5-E24A19D05830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "106. Construct Binary Tree from Inorder and Postorder Traversal", "106. Construct Binary Tree from Inorder and Postorder Traversal\106. Construct Binary Tree from Inorder and Postorder Traversal.csproj", "{20BC907A-BA2C-4528-B0C5-E24A19D05830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "297. Serialize and Deserialize Binary Tree", "297. Serialize and Deserialize Binary Tree\297. Serialize and Deserialize Binary Tree.csproj", "{332088AF-B6EB-404A-8F1E-3143154FBAA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "297. Serialize and Deserialize Binary Tree", "297. Serialize and Deserialize Binary Tree\297. Serialize and Deserialize Binary Tree.csproj", "{332088AF-B6EB-404A-8F1E-3143154FBAA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morris_Traversal_InOrder_PreOrder", "Morris_Traversal_InOrder_PreOrder\Morris_Traversal_InOrder_PreOrder.csproj", "{6F8BB128-D026-4722-9B34-BA07CD4781CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Morris_Traversal_InOrder_PreOrder", "Morris_Traversal_InOrder_PreOrder\Morris_Traversal_InOrder_PreOrder.csproj", "{6F8BB128-D026-4722-9B34-BA07CD4781CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "509. Fibonacci Number", "509. Fibonacci Number\509. Fibonacci Number.csproj", "{C7EB0DC7-3139-408F-A6E7-09971074FF09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "509. Fibonacci Number", "509. Fibonacci Number\509. Fibonacci Number.csproj", "{C7EB0DC7-3139-408F-A6E7-09971074FF09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Count_Ways_To_Reach_The_N-th_Stairs", "CN_Count_Ways_To_Reach_The_N-th_Stairs\CN_Count_Ways_To_Reach_The_N-th_Stairs.csproj", "{270D1BC0-2CCB-4168-9BEE-34084DA60FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Count_Ways_To_Reach_The_N-th_Stairs", "CN_Count_Ways_To_Reach_The_N-th_Stairs\CN_Count_Ways_To_Reach_The_N-th_Stairs.csproj", "{270D1BC0-2CCB-4168-9BEE-34084DA60FAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Say_Digit", "Say_Digit\Say_Digit.csproj", "{C039AA80-45AF-4F32-9C86-5D9AF1B2E281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Say_Digit", "Say_Digit\Say_Digit.csproj", "{C039AA80-45AF-4F32-9C86-5D9AF1B2E281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114. Flatten Binary Tree to Linked List", "114. Flatten Binary Tree to Linked List\114. Flatten Binary Tree to Linked List.csproj", "{0940ED31-EC16-4FA2-8F93-F6741041EA51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "114. Flatten Binary Tree to Linked List", "114. Flatten Binary Tree to Linked List\114. Flatten Binary Tree to Linked List.csproj", "{0940ED31-EC16-4FA2-8F93-F6741041EA51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search Tree", "Binary Search Tree", "{A845A962-34AE-4B78-825B-8DF8560AC3ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "700. Search in a Binary Search Tree", "700. Search in a Binary Search Tree\700. Search in a Binary Search Tree.csproj", "{51BEE596-038C-40FE-A18D-1781705F9844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "700. Search in a Binary Search Tree", "700. Search in a Binary Search Tree\700. Search in a Binary Search Tree.csproj", "{51BEE596-038C-40FE-A18D-1781705F9844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Ceil_from_BST", "CN_Ceil_from_BST\CN_Ceil_from_BST.csproj", "{A03DACCD-D61B-442A-BC22-429219C20576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Ceil_from_BST", "CN_Ceil_from_BST\CN_Ceil_from_BST.csproj", "{A03DACCD-D61B-442A-BC22-429219C20576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Floor_in_BST", "CN_Floor_in_BST\CN_Floor_in_BST.csproj", "{67F8CDD9-3D42-447A-9ED1-43C66B23FF75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Floor_in_BST", "CN_Floor_in_BST\CN_Floor_in_BST.csproj", "{67F8CDD9-3D42-447A-9ED1-43C66B23FF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "701. Insert into a Binary Search Tree", "701. Insert into a Binary Search Tree\701. Insert into a Binary Search Tree.csproj", "{087252A6-C736-4848-9AEC-F39107B2F597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "701. Insert into a Binary Search Tree", "701. Insert into a Binary Search Tree\701. Insert into a Binary Search Tree.csproj", "{087252A6-C736-4848-9AEC-F39107B2F597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "450. Delete Node in a BST", "450. Delete Node in a BST\450. Delete Node in a BST.csproj", "{027D7B2D-9DBB-4912-96F3-66A2F2DC283F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "450. Delete Node in a BST", "450. Delete Node in a BST\450. Delete Node in a BST.csproj", "{027D7B2D-9DBB-4912-96F3-66A2F2DC283F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "230. Kth Smallest Element in a BST", "230. Kth Smallest Element in a BST\230. Kth Smallest Element in a BST.csproj", "{84DDC1A3-11AD-4B54-B050-BB7E0341EE90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "98. Validate Binary Search Tree", "98. Validate Binary Search Tree\98. Validate Binary Search Tree.csproj", "{17AEE11A-47CB-4886-A19F-EC1FA0132AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "235. Lowest Common Ancestor of a Binary Search Tree", "235. Lowest Common Ancestor of a Binary Search Tree\235. Lowest Common Ancestor of a Binary Search Tree.csproj", "{C72780BB-060D-4997-A1B8-71013C5BBC47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1008. Construct Binary Search Tree from Preorder Traversal", "1008. Construct Binary Search Tree from Preorder Traversal\1008. Construct Binary Search Tree from Preorder Traversal.csproj", "{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Merge_Sort", "CN_Merge_Sort\CN_Merge_Sort.csproj", "{6C2FF49B-7A86-419A-A934-855FCC513B0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode_InOrder_Successor_Predecessor_BST", "LeetCode_InOrder_Successor_Predecessor_BST\LeetCode_InOrder_Successor_Predecessor_BST.csproj", "{E39AAE09-16B6-4128-8B9F-D58D5EAA6435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "173. Binary Search Tree Iterator", "173. Binary Search Tree Iterator\173. Binary Search Tree Iterator.csproj", "{F2F6C640-EF9C-4E96-9EB4-1749157D29C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{6A0AD022-1503-45BF-A294-7B736500610F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "99. Recover Binary Search Tree", "99. Recover Binary Search Tree\99. Recover Binary Search Tree.csproj", "{63484D53-3AA8-4BDF-BA69-A7530A693C9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Quick_Sort", "CN_Quick_Sort\CN_Quick_Sort.csproj", "{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest_BST_In_Binary_Tree", "Largest_BST_In_Binary_Tree\Largest_BST_In_Binary_Tree.csproj", "{9FEC9B2A-E56A-4C65-968E-56E39665CFBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Catch Fish", "CN_Catch Fish\CN_Catch Fish.csproj", "{10273969-C034-4C23-8939-3E41AF94F2B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Make_it_Equal", "CN_Make_it_Equal\CN_Make_it_Equal.csproj", "{E792A7B3-AE09-4620-97E2-DB454B9742AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subsequences of String", "Subsequences of String\Subsequences of String.csproj", "{187F4B1F-27B1-47C5-8A65-0CA2A4F33723}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graph", "Graph", "{051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Representation and Storing in DSA of Graph", "Representation and Storing in DSA of Graph\Representation and Storing in DSA of Graph.csproj", "{910FBD0E-695C-4951-9775-D167669094EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17. Letter Combinations of a Phone Number", "17. Letter Combinations of a Phone Number\17. Letter Combinations of a Phone Number.csproj", "{8847F8CF-F516-4F90-8662-2D6741F2FBEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Permutations_of_a_String", "CN_Permutations_of_a_String\CN_Permutations_of_a_String.csproj", "{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{A9D9C4FC-DB67-41C5-9293-33631DED2786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1230,6 +1270,82 @@ Global
 		{027D7B2D-9DBB-4912-96F3-66A2F2DC283F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027D7B2D-9DBB-4912-96F3-66A2F2DC283F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027D7B2D-9DBB-4912-96F3-66A2F2DC283F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DDC1A3-11AD-4B54-B050-BB7E0341EE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DDC1A3-11AD-4B54-B050-BB7E0341EE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DDC1A3-11AD-4B54-B050-BB7E0341EE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DDC1A3-11AD-4B54-B050-BB7E0341EE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AEE11A-47CB-4886-A19F-EC1FA0132AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AEE11A-47CB-4886-A19F-EC1FA0132AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AEE11A-47CB-4886-A19F-EC1FA0132AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AEE11A-47CB-4886-A19F-EC1FA0132AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72780BB-060D-4997-A1B8-71013C5BBC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72780BB-060D-4997-A1B8-71013C5BBC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72780BB-060D-4997-A1B8-71013C5BBC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72780BB-060D-4997-A1B8-71013C5BBC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2FF49B-7A86-419A-A934-855FCC513B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2FF49B-7A86-419A-A934-855FCC513B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2FF49B-7A86-419A-A934-855FCC513B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2FF49B-7A86-419A-A934-855FCC513B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39AAE09-16B6-4128-8B9F-D58D5EAA6435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39AAE09-16B6-4128-8B9F-D58D5EAA6435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39AAE09-16B6-4128-8B9F-D58D5EAA6435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39AAE09-16B6-4128-8B9F-D58D5EAA6435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F6C640-EF9C-4E96-9EB4-1749157D29C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F6C640-EF9C-4E96-9EB4-1749157D29C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F6C640-EF9C-4E96-9EB4-1749157D29C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F6C640-EF9C-4E96-9EB4-1749157D29C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0AD022-1503-45BF-A294-7B736500610F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0AD022-1503-45BF-A294-7B736500610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0AD022-1503-45BF-A294-7B736500610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0AD022-1503-45BF-A294-7B736500610F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63484D53-3AA8-4BDF-BA69-A7530A693C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63484D53-3AA8-4BDF-BA69-A7530A693C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63484D53-3AA8-4BDF-BA69-A7530A693C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63484D53-3AA8-4BDF-BA69-A7530A693C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEC9B2A-E56A-4C65-968E-56E39665CFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEC9B2A-E56A-4C65-968E-56E39665CFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEC9B2A-E56A-4C65-968E-56E39665CFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEC9B2A-E56A-4C65-968E-56E39665CFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10273969-C034-4C23-8939-3E41AF94F2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10273969-C034-4C23-8939-3E41AF94F2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10273969-C034-4C23-8939-3E41AF94F2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10273969-C034-4C23-8939-3E41AF94F2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E792A7B3-AE09-4620-97E2-DB454B9742AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E792A7B3-AE09-4620-97E2-DB454B9742AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E792A7B3-AE09-4620-97E2-DB454B9742AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E792A7B3-AE09-4620-97E2-DB454B9742AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187F4B1F-27B1-47C5-8A65-0CA2A4F33723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187F4B1F-27B1-47C5-8A65-0CA2A4F33723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187F4B1F-27B1-47C5-8A65-0CA2A4F33723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187F4B1F-27B1-47C5-8A65-0CA2A4F33723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910FBD0E-695C-4951-9775-D167669094EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910FBD0E-695C-4951-9775-D167669094EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910FBD0E-695C-4951-9775-D167669094EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910FBD0E-695C-4951-9775-D167669094EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8847F8CF-F516-4F90-8662-2D6741F2FBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8847F8CF-F516-4F90-8662-2D6741F2FBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8847F8CF-F516-4F90-8662-2D6741F2FBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8847F8CF-F516-4F90-8662-2D6741F2FBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D9C4FC-DB67-41C5-9293-33631DED2786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D9C4FC-DB67-41C5-9293-33631DED2786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D9C4FC-DB67-41C5-9293-33631DED2786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D9C4FC-DB67-41C5-9293-33631DED2786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1417,6 +1533,25 @@ Global
 		{67F8CDD9-3D42-447A-9ED1-43C66B23FF75} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
 		{087252A6-C736-4848-9AEC-F39107B2F597} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
 		{027D7B2D-9DBB-4912-96F3-66A2F2DC283F} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{84DDC1A3-11AD-4B54-B050-BB7E0341EE90} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{17AEE11A-47CB-4886-A19F-EC1FA0132AF3} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{C72780BB-060D-4997-A1B8-71013C5BBC47} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{E1B254C4-EC81-4685-B3C5-86BDB3C4E0C3} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{6C2FF49B-7A86-419A-A934-855FCC513B0A} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
+		{E39AAE09-16B6-4128-8B9F-D58D5EAA6435} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{F2F6C640-EF9C-4E96-9EB4-1749157D29C0} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{6A0AD022-1503-45BF-A294-7B736500610F} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{63484D53-3AA8-4BDF-BA69-A7530A693C9B} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{7287EBEF-A9CF-43FB-83BB-301A4F4CC80B} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
+		{9FEC9B2A-E56A-4C65-968E-56E39665CFBB} = {A845A962-34AE-4B78-825B-8DF8560AC3ED}
+		{10273969-C034-4C23-8939-3E41AF94F2B2} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{E792A7B3-AE09-4620-97E2-DB454B9742AF} = {DB0C8CB8-AC03-45B7-9A16-9DE4F9C7CDF5}
+		{187F4B1F-27B1-47C5-8A65-0CA2A4F33723} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
+		{910FBD0E-695C-4951-9775-D167669094EC} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{8847F8CF-F516-4F90-8662-2D6741F2FBEF} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
+		{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
+		{A9D9C4FC-DB67-41C5-9293-33631DED2786} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}

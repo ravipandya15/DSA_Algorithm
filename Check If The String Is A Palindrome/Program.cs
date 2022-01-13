@@ -87,7 +87,7 @@ namespace Check_If_The_String_Is_A_Palindrome
 
                 //if ((s > n) || e < 0)
                 //    return true;
-                if (s > n)
+                if ((s > n) || (e < 0))
                     break;
 
                 if (ConvertToLower(str[s]) != ConvertToLower(str[e]))
