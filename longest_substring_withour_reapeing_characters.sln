@@ -484,19 +484,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17. Letter Combinations of 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Permutations_of_a_String", "CN_Permutations_of_a_String\CN_Permutations_of_a_String.csproj", "{A38DB9F8-CDB0-4D82-9C1B-C2C4199DF3B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{A9D9C4FC-DB67-41C5-9293-33631DED2786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFS", "BFS\BFS.csproj", "{A9D9C4FC-DB67-41C5-9293-33631DED2786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS", "DFS\DFS.csproj", "{77A4A7C9-73D8-4E8E-9EE7-996297BF9F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycle_Detection_Undirected_Graph", "Cycle_Detection_Undirected_Graph_BFS\Cycle_Detection_Undirected_Graph.csproj", "{62EBE45D-EAAA-4DDE-9493-F388810ABF3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycle_Detection_Undirected_Graph", "Cycle_Detection_Undirected_Graph_BFS\Cycle_Detection_Undirected_Graph.csproj", "{62EBE45D-EAAA-4DDE-9493-F388810ABF3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bipartite_Graph", "Bipartite_Graph\Bipartite_Graph.csproj", "{B0D8377F-B228-403C-9732-AE9E59F5AFE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bipartite_Graph", "Bipartite_Graph\Bipartite_Graph.csproj", "{B0D8377F-B228-403C-9732-AE9E59F5AFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycle_Detection_Directed_Graph", "Cycle_Detection_Directed_Graph\Cycle_Detection_Directed_Graph.csproj", "{F4FEC310-F2D2-47A0-AEF8-9E1185E98CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycle_Detection_Directed_Graph", "Cycle_Detection_Directed_Graph\Cycle_Detection_Directed_Graph.csproj", "{F4FEC310-F2D2-47A0-AEF8-9E1185E98CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topological_Sort", "Topological_Sort\Topological_Sort.csproj", "{D9FB45A3-2F33-4A10-A215-B968CCB71FA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topological_Sort", "Topological_Sort\Topological_Sort.csproj", "{D9FB45A3-2F33-4A10-A215-B968CCB71FA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest_Path_Undirected_Unit_Weights", "Shortest_Path_Undirected_Unit_Weights\Shortest_Path_Undirected_Unit_Weights.csproj", "{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest_Path_Undirected_Unit_Weights", "Shortest_Path_Undirected_Unit_Weights\Shortest_Path_Undirected_Unit_Weights.csproj", "{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest_Path_In_Directed_Acylic_Graph", "Shortest_Path_In_Directed_Acylic_Graph\Shortest_Path_In_Directed_Acylic_Graph.csproj", "{A7BEED30-FB33-4C1D-9DB6-478C2B916292}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dijkstra's_Shortest_Path_In_Directed_Graph", "Dijkstra's_Shortest_Path_In_Directed_Graph\Dijkstra's_Shortest_Path_In_Directed_Graph.csproj", "{C0BEEEFC-C912-44D9-ACD6-1986F7857334}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prim_Algo_MST", "Prim_Algo_MST\Prim_Algo_MST.csproj", "{9E3DA207-F81D-4C31-B3B4-9A94E324A361}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disjoint_Set_Union_By_Rank_And_Path_Compression", "Disjoint_Set_Union_By_Rank_And_Path_Compression\Disjoint_Set_Union_By_Rank_And_Path_Compression.csproj", "{743E8710-94D1-4E7C-B440-E57881B1AAB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kruskal_Algorithm", "Kruskal_Algorithm\Kruskal_Algorithm.csproj", "{73188069-7A52-44EE-B882-9AAB03BCC5B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge_In_Graph", "Bridge_In_Graph\Bridge_In_Graph.csproj", "{BEA48525-F31B-48A4-BFB6-D3A7E6997144}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articulation_Point", "Articulation_Point\Articulation_Point.csproj", "{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kosaraju_Algorithm", "Kosaraju_Algorithm\Kosaraju_Algorithm.csproj", "{87C662B4-7FEE-4CB7-B208-96E53CE16A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellman_Ford", "Bellman_Ford\Bellman_Ford.csproj", "{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1376,6 +1394,42 @@ Global
 		{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BEED30-FB33-4C1D-9DB6-478C2B916292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BEED30-FB33-4C1D-9DB6-478C2B916292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BEED30-FB33-4C1D-9DB6-478C2B916292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BEED30-FB33-4C1D-9DB6-478C2B916292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BEEEFC-C912-44D9-ACD6-1986F7857334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BEEEFC-C912-44D9-ACD6-1986F7857334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BEEEFC-C912-44D9-ACD6-1986F7857334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BEEEFC-C912-44D9-ACD6-1986F7857334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3DA207-F81D-4C31-B3B4-9A94E324A361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3DA207-F81D-4C31-B3B4-9A94E324A361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3DA207-F81D-4C31-B3B4-9A94E324A361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3DA207-F81D-4C31-B3B4-9A94E324A361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743E8710-94D1-4E7C-B440-E57881B1AAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743E8710-94D1-4E7C-B440-E57881B1AAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743E8710-94D1-4E7C-B440-E57881B1AAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743E8710-94D1-4E7C-B440-E57881B1AAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73188069-7A52-44EE-B882-9AAB03BCC5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73188069-7A52-44EE-B882-9AAB03BCC5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73188069-7A52-44EE-B882-9AAB03BCC5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73188069-7A52-44EE-B882-9AAB03BCC5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA48525-F31B-48A4-BFB6-D3A7E6997144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA48525-F31B-48A4-BFB6-D3A7E6997144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA48525-F31B-48A4-BFB6-D3A7E6997144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA48525-F31B-48A4-BFB6-D3A7E6997144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C662B4-7FEE-4CB7-B208-96E53CE16A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C662B4-7FEE-4CB7-B208-96E53CE16A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C662B4-7FEE-4CB7-B208-96E53CE16A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C662B4-7FEE-4CB7-B208-96E53CE16A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1587,6 +1641,15 @@ Global
 		{F4FEC310-F2D2-47A0-AEF8-9E1185E98CB4} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
 		{D9FB45A3-2F33-4A10-A215-B968CCB71FA5} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
 		{AA3ABAB3-D7E0-46A9-AE60-5203E88F971A} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{A7BEED30-FB33-4C1D-9DB6-478C2B916292} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{C0BEEEFC-C912-44D9-ACD6-1986F7857334} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{9E3DA207-F81D-4C31-B3B4-9A94E324A361} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{743E8710-94D1-4E7C-B440-E57881B1AAB2} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{73188069-7A52-44EE-B882-9AAB03BCC5B8} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{BEA48525-F31B-48A4-BFB6-D3A7E6997144} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{2FE7F2BE-EF49-4FEB-A5C2-33AE87A23D94} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{87C662B4-7FEE-4CB7-B208-96E53CE16A2B} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
+		{5423D8AA-DF15-4E5F-82D4-9A3F5ACD752D} = {051B1E66-FEC6-4B34-94A6-D0A5B4DDF8EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
