@@ -542,6 +542,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frog_Jump", "Frog_Jump\Frog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frog_Jump_With_K_Distance", "Frog_Jump_With_K_Distance\Frog_Jump_With_K_Distance.csproj", "{1797C846-2461-4DB7-8629-4A48152E4E84}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList_Series", "LinkedList_Series", "{AE0290B4-53F4-4BED-AAA9-D9A143DD060F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singly_Linked_List", "Singly_Linked_List\Singly_Linked_List.csproj", "{A26026F2-13C2-4711-BC3A-79B03E0F307F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1500,6 +1504,10 @@ Global
 		{1797C846-2461-4DB7-8629-4A48152E4E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1797C846-2461-4DB7-8629-4A48152E4E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1797C846-2461-4DB7-8629-4A48152E4E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26026F2-13C2-4711-BC3A-79B03E0F307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26026F2-13C2-4711-BC3A-79B03E0F307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26026F2-13C2-4711-BC3A-79B03E0F307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26026F2-13C2-4711-BC3A-79B03E0F307F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1731,6 +1739,7 @@ Global
 		{050DDB51-9776-494E-A7A8-892A20D34C26} = {2178A4BE-BCCA-484B-8A32-76C0EFBF5E68}
 		{C93A5FCB-457A-416D-9FA8-809C63866C49} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
 		{1797C846-2461-4DB7-8629-4A48152E4E84} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{A26026F2-13C2-4711-BC3A-79B03E0F307F} = {AE0290B4-53F4-4BED-AAA9-D9A143DD060F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
