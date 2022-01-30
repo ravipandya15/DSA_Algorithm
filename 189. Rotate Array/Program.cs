@@ -24,6 +24,11 @@ namespace _189._Rotate_Array
 
         public static void Rotate(int[] nums, int k)
         {
+            // this is right side rotate
+            // if left side rotate than k = K % nums.Length;
+            // k = nums.length - k;
+            // now do k times right rotate
+            // k times left rotate = n - k times right rotate
             k = k % nums.Length;
 
             reverse(nums, 0, nums.Length - 1);
