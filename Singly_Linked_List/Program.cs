@@ -155,12 +155,14 @@ namespace Singly_Linked_List
         {
             int count = 1;
             Node cur = head, prev = null;
-            while (cur.data != value)
+            while (cur != null && cur.data != value)
             {
                 prev = cur;
                 cur = cur.next;
                 count++;
             }
+
+            if (cur == null) return;
 
             if (count == 1)
             {// deleting 1st Node

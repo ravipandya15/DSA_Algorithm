@@ -29,19 +29,60 @@ namespace _206._Reverse_Linked_List
             }
         }
 
+        // TC -> O(N)
+        // SC -> O(1)
         public static ListNode ReverseList(ListNode head)
         {
-            ListNode newNode = null;
-            
-            while(head != null)
+            ListNode prev = null;
+            ListNode cur = head;
+
+            while (cur != null)
             {
-                ListNode next = head.next;
-                head.next = newNode;
-                newNode = head;
-                head = next;
+                ListNode next = cur.next;
+                cur.next = prev;
+                prev = cur;
+                cur = next;
             }
 
-            return newNode;
+            return prev;
+        }
+
+        // TC -> O(N)
+        // SC -> O(N)
+        public static ListNode Reverse1(ListNode head)
+        {
+            if (head == null || head.next == null) return head;
+
+            ListNode smallHead = Reverse1(head.next);
+            head.next.next = head;
+            head.next = null;
+
+            return smallHead;
+        }
+
+        public static void Reverse(ref ListNode head, ListNode cur, ListNode prev)
+        {
+            // base case
+            if (cur == null)
+            {
+                head = prev;
+                return;
+            }
+
+            ListNode next = cur.next;
+            Reverse(ref head, next, cur);
+            cur.next = prev;
+        }
+
+        // TC -> O(N)
+        // SC -> O(N)
+        public static ListNode ReverseList1(ListNode head)
+        {
+            ListNode prev = null;
+            ListNode cur = head;
+
+            Reverse(ref head, ref cur, ref prev);
+            return prev;
         }
     }
 }
