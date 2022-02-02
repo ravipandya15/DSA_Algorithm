@@ -15,7 +15,7 @@ namespace _234._Palindrome_Linked_List
             ListNode node2 = new ListNode(2, node3);
             ListNode head = new ListNode(1, node2);
 
-            Console.WriteLine($"Amswer is {IsPalindrome(head)}");
+            Console.WriteLine($"Answer is {IsPalindrome(head)}");
             Console.ReadLine();
         }
 
