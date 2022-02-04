@@ -10,8 +10,8 @@ namespace CN_Partition_Equal_Subset_Sum
         }
 
         // Tabulation
-        // TC -> O(N * target)
-        // SC -> O(N) + O(N * target) 
+        // TC -> O(N) + O(N * target)
+        // SC -> O(N * target) 
         public static bool subsetSumToK(int n, int k, int[] arr)
         {
             bool[,] dp = new bool[n, k + 1];

@@ -88,7 +88,7 @@ namespace CN_Subset_Sum_Equal_To_K
                 dp[i, 0] = true;
             }
 
-            dp[0, arr[0]] = true;
+            if (arr[0] <= k)  dp[0, arr[0]] = true;
 
             for (int index = 1; index < n; index++)
             {
