@@ -36,7 +36,7 @@ namespace Valid_Paramthesis
                 {
                     if (st.Count == 0) return false;
                     char ch = st.Peek();
-                    st.Pop();
+                    st.Pop(); // instead of pop here I can also write inside if confition at line no 44.
                     if ((s[i] == ')' && ch == '(') ||
                         (s[i] == '}' && ch == '{') ||
                         (s[i] == ']' && ch == '['))
