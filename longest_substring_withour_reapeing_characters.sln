@@ -590,63 +590,111 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Merge_Two_Sorted_Linked_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Check_if_Linked_List_is_Palindrome", "GFG_Check_if_Linked_List_is_Palindrome\GFG_Check_if_Linked_List_is_Palindrome.csproj", "{AA5C793E-CCDE-4FBD-9E10-B7E5AF17C5F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Subset_Sum_Equal_To_K", "CN_Subset_Sum_Equal_To_K\CN_Subset_Sum_Equal_To_K.csproj", "{A514A111-6F5A-41F5-A54C-0BC52D0832E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Subset_Sum_Equal_To_K", "CN_Subset_Sum_Equal_To_K\CN_Subset_Sum_Equal_To_K.csproj", "{A514A111-6F5A-41F5-A54C-0BC52D0832E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Partition_Equal_Subset_Sum", "CN_Partition_Equal_Subset_Sum\CN_Partition_Equal_Subset_Sum.csproj", "{CE4F0809-11EE-4AA0-8E56-34C5D3FBEFBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Partition_Equal_Subset_Sum", "CN_Partition_Equal_Subset_Sum\CN_Partition_Equal_Subset_Sum.csproj", "{CE4F0809-11EE-4AA0-8E56-34C5D3FBEFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_Add_two_numbers_represented_by_linked_lists", "GFG_Add_two_numbers_represented_by_linked_lists\GFG_Add_two_numbers_represented_by_linked_lists.csproj", "{1C9426FB-793D-47FB-BE7D-3CB64CB99FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Add_two_numbers_represented_by_linked_lists", "GFG_Add_two_numbers_represented_by_linked_lists\GFG_Add_two_numbers_represented_by_linked_lists.csproj", "{1C9426FB-793D-47FB-BE7D-3CB64CB99FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_difference_of_subset_sums_is_minimum", "CN_difference_of_subset_sums_is_minimum\CN_difference_of_subset_sums_is_minimum.csproj", "{EAEB15B0-ED40-410B-99F2-534619334374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_difference_of_subset_sums_is_minimum", "CN_difference_of_subset_sums_is_minimum\CN_difference_of_subset_sums_is_minimum.csproj", "{EAEB15B0-ED40-410B-99F2-534619334374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_Infix_to_Postfix", "GFG_Infix_to_Postfix\GFG_Infix_to_Postfix.csproj", "{BDBE1362-D454-44E8-A8F4-0834BCB8BC01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Infix_to_Postfix", "GFG_Infix_to_Postfix\GFG_Infix_to_Postfix.csproj", "{BDBE1362-D454-44E8-A8F4-0834BCB8BC01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_Clone_a_linked_list_with_next_and_random_pointer", "GFG_Clone_a_linked_list_with_next_and_random_pointer\GFG_Clone_a_linked_list_with_next_and_random_pointer.csproj", "{4424A61B-537E-4C78-9C17-FFB072634BD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Clone_a_linked_list_with_next_and_random_pointer", "GFG_Clone_a_linked_list_with_next_and_random_pointer\GFG_Clone_a_linked_list_with_next_and_random_pointer.csproj", "{4424A61B-537E-4C78-9C17-FFB072634BD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_MergeSort_Linked_List", "CN_MergeSort_Linked_List\CN_MergeSort_Linked_List.csproj", "{F250F867-6F5C-420E-B7B0-2806211B3200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_MergeSort_Linked_List", "CN_MergeSort_Linked_List\CN_MergeSort_Linked_List.csproj", "{F250F867-6F5C-420E-B7B0-2806211B3200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Flatten_A_Linked_List", "CN_Flatten_A_Linked_List\CN_Flatten_A_Linked_List.csproj", "{1AF8E315-12BB-408D-AAA0-9EAA1E16CAEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Flatten_A_Linked_List", "CN_Flatten_A_Linked_List\CN_Flatten_A_Linked_List.csproj", "{1AF8E315-12BB-408D-AAA0-9EAA1E16CAEC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Love_Bubber_Stack", "Love_Bubber_Stack", "{ED80320B-9566-4B78-B4E6-FBBE0B3F03DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation_of_Stack_using_Array", "Implementation_of_Stack_using_Array\Implementation_of_Stack_using_Array.csproj", "{E84A2138-0E50-4A93-868A-84F0946A8DB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementation_of_Stack_using_Array", "Implementation_of_Stack_using_Array\Implementation_of_Stack_using_Array.csproj", "{E84A2138-0E50-4A93-868A-84F0946A8DB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Two_Stacks", "CN_Two_Stacks\CN_Two_Stacks.csproj", "{0343FE8B-7A19-4EFB-93E7-1153E11CF8DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Two_Stacks", "CN_Two_Stacks\CN_Two_Stacks.csproj", "{0343FE8B-7A19-4EFB-93E7-1153E11CF8DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Number_Of_Subsets", "CN_Number_Of_Subsets\CN_Number_Of_Subsets.csproj", "{6DE0511F-8E26-4A6F-97EC-0D6BCDE6298C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Number_Of_Subsets", "CN_Number_Of_Subsets\CN_Number_Of_Subsets.csproj", "{6DE0511F-8E26-4A6F-97EC-0D6BCDE6298C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Partitions_With_Given_Difference", "CN_Partitions_With_Given_Difference\CN_Partitions_With_Given_Difference.csproj", "{2BF3A7C1-2285-4767-BCC9-A8055793B8CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Partitions_With_Given_Difference", "CN_Partitions_With_Given_Difference\CN_Partitions_With_Given_Difference.csproj", "{2BF3A7C1-2285-4767-BCC9-A8055793B8CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Delete_middle_element_from_stack", "CN_Delete_middle_element_from_stack\CN_Delete_middle_element_from_stack.csproj", "{9AE675B4-5F6C-4658-925A-D6E3CBCCFEE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Delete_middle_element_from_stack", "CN_Delete_middle_element_from_stack\CN_Delete_middle_element_from_stack.csproj", "{9AE675B4-5F6C-4658-925A-D6E3CBCCFEE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_String_Using_Stack", "Reverse_String_Using_Stack\Reverse_String_Using_Stack.csproj", "{0387DD75-0359-4040-A887-9BFF40417D61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_String_Using_Stack", "Reverse_String_Using_Stack\Reverse_String_Using_Stack.csproj", "{0387DD75-0359-4040-A887-9BFF40417D61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Valid_Parentheses", "CN_Valid_Parentheses\CN_Valid_Parentheses.csproj", "{78FAC90E-7C9C-4F4B-B7A6-DA4982268A28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Valid_Parentheses", "CN_Valid_Parentheses\CN_Valid_Parentheses.csproj", "{78FAC90E-7C9C-4F4B-B7A6-DA4982268A28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack", "CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack\CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack.csproj", "{FEA9B894-6B3B-4F84-A8F7-C5D9A10B1ADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack", "CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack\CN_Insert_An_Element_At_Its_Bottom_In_A_Given_Stack.csproj", "{FEA9B894-6B3B-4F84-A8F7-C5D9A10B1ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Reverse_Stack_Using_Recursion", "CN_Reverse_Stack_Using_Recursion\CN_Reverse_Stack_Using_Recursion.csproj", "{5A6CC131-D5BE-43D3-AFB8-BEAF225145BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Reverse_Stack_Using_Recursion", "CN_Reverse_Stack_Using_Recursion\CN_Reverse_Stack_Using_Recursion.csproj", "{5A6CC131-D5BE-43D3-AFB8-BEAF225145BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Sort_a_Stack", "CN_Sort_a_Stack\CN_Sort_a_Stack.csproj", "{374A8A14-F214-48D8-AA70-91B9B801D85F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Sort_a_Stack", "CN_Sort_a_Stack\CN_Sort_a_Stack.csproj", "{374A8A14-F214-48D8-AA70-91B9B801D85F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Redundant_Brackets", "CN_Redundant_Brackets\CN_Redundant_Brackets.csproj", "{656EB12C-1F97-4BDC-BB09-30CD3FA8EF86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Redundant_Brackets", "CN_Redundant_Brackets\CN_Redundant_Brackets.csproj", "{656EB12C-1F97-4BDC-BB09-30CD3FA8EF86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Minimum_Cost_To_Make_String_Valid", "CN_Minimum_Cost_To_Make_String_Valid\CN_Minimum_Cost_To_Make_String_Valid.csproj", "{2E231459-5242-470D-BBF7-4E148D02F3BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Minimum_Cost_To_Make_String_Valid", "CN_Minimum_Cost_To_Make_String_Valid\CN_Minimum_Cost_To_Make_String_Valid.csproj", "{2E231459-5242-470D-BBF7-4E148D02F3BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Next_Smaller_Element", "CN_Next_Smaller_Element\CN_Next_Smaller_Element.csproj", "{EC512998-0CD1-4BF9-AEAF-7E3F00DDD6B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Next_Smaller_Element", "CN_Next_Smaller_Element\CN_Next_Smaller_Element.csproj", "{EC512998-0CD1-4BF9-AEAF-7E3F00DDD6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84. Largest Rectangle in Histogram Love bubber", "84. Largest Rectangle in Histogram Love bubber\84. Largest Rectangle in Histogram Love bubber.csproj", "{02C1A5B6-2B85-4DE8-8B42-6DC59DBEF570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84. Largest Rectangle in Histogram Love bubber", "84. Largest Rectangle in Histogram Love bubber\84. Largest Rectangle in Histogram Love bubber.csproj", "{02C1A5B6-2B85-4DE8-8B42-6DC59DBEF570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_The_Celebrity_Problem", "GFG_The_Celebrity_Problem\GFG_The_Celebrity_Problem.csproj", "{2BEBA45A-66F2-49D5-ABD2-3E0054EC9233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_The_Celebrity_Problem", "GFG_The_Celebrity_Problem\GFG_The_Celebrity_Problem.csproj", "{2BEBA45A-66F2-49D5-ABD2-3E0054EC9233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_Max_rectangle", "GFG_Max_rectangle\GFG_Max_rectangle.csproj", "{3948EF98-A732-4936-B2C3-8EF0D2623C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Max_rectangle", "GFG_Max_rectangle\GFG_Max_rectangle.csproj", "{3948EF98-A732-4936-B2C3-8EF0D2623C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_N_Stacks_In_An_Array", "CN_N_Stacks_In_An_Array\CN_N_Stacks_In_An_Array.csproj", "{859D25ED-13EC-40A1-BEE3-6EF86EAF9F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_N_Stacks_In_An_Array", "CN_N_Stacks_In_An_Array\CN_N_Stacks_In_An_Array.csproj", "{859D25ED-13EC-40A1-BEE3-6EF86EAF9F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Design_Special_Stack_Problem", "CN_Design_Special_Stack_Problem\CN_Design_Special_Stack_Problem.csproj", "{4ACAC02A-816E-47B5-BD03-FA61CF461685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Design_Special_Stack_Problem", "CN_Design_Special_Stack_Problem\CN_Design_Special_Stack_Problem.csproj", "{4ACAC02A-816E-47B5-BD03-FA61CF461685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_0_1_Knapsack", "CN_0_1_Knapsack\CN_0_1_Knapsack.csproj", "{CCF6024B-3A4B-4A00-A1E8-5FE8E1981609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_0_1_Knapsack", "CN_0_1_Knapsack\CN_0_1_Knapsack.csproj", "{CCF6024B-3A4B-4A00-A1E8-5FE8E1981609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Minimum_Elements", "CN_Minimum_Elements\CN_Minimum_Elements.csproj", "{87AA7F7E-6536-400B-A51B-00D785F2AFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Minimum_Elements", "CN_Minimum_Elements\CN_Minimum_Elements.csproj", "{87AA7F7E-6536-400B-A51B-00D785F2AFBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Target_Sum", "CN_Target_Sum\CN_Target_Sum.csproj", "{E3D07FBC-D486-4502-9F05-0B81FE530D80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{FD7DC864-00C6-4B51-BFC9-DB795F326D2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Love Bubber Queue", "Love Bubber Queue", "{49575375-A5B8-4622-A0A2-B072A7DA51F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Implement_a_Queue", "CN_Implement_a_Queue\CN_Implement_a_Queue.csproj", "{71063BC4-88ED-4154-8FAC-1C1033F63AD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Circular_Queue", "CN_Circular_Queue\CN_Circular_Queue.csproj", "{251E765D-5BDF-4E37-A983-B6F4202488BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Deque", "CN_Deque\CN_Deque.csproj", "{75F98FF9-3F84-4B1B-BD49-370ABABE975B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_First_negative_integer_in_every_window_of_size_k", "GFG_First_negative_integer_in_every_window_of_size_k\GFG_First_negative_integer_in_every_window_of_size_k.csproj", "{372C9882-712E-455B-9C26-C50E4350B914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Queue_Reversal", "GFG_Queue_Reversal\GFG_Queue_Reversal.csproj", "{BB2A4F50-C297-4420-9F41-A6C032C54478}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_First_non_repeating_character_in_a_stream", "GFG_First_non_repeating_character_in_a_stream\GFG_First_non_repeating_character_in_a_stream.csproj", "{FA7E2771-322C-421C-BA44-2475B4EDBDEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Reverse_First_K_elements_of_Queue", "GFG_Reverse_First_K_elements_of_Queue\GFG_Reverse_First_K_elements_of_Queue.csproj", "{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Circular_tour", "GFG_Circular_tour\GFG_Circular_tour.csproj", "{7CC5EE32-B208-416C-B950-3D5BA064F595}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Interleave_the_first_half_of_the_queue_with_second_half", "GFG_Interleave_the_first_half_of_the_queue_with_second_half\GFG_Interleave_the_first_half_of_the_queue_with_second_half.csproj", "{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_K_Queue_In_Single_Array", "GFG_K_Queue_In_Single_Array\GFG_K_Queue_In_Single_Array.csproj", "{E87AD50E-CEF5-472A-B15C-7BE05B9EED62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Sum_of_Minimum_and_Maximum_of_all_SubArrays_of_Size_K", "GFG_Sum_of_Minimum_and_Maximum_of_all_SubArrays_of_Size_K\GFG_Sum_of_Minimum_and_Maximum_of_all_SubArrays_of_Size_K.csproj", "{ABA9D30B-48DB-445A-8DA5-F94E1E01B904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Fold_and_Merge_Linked_List", "CN_Fold_and_Merge_Linked_List\CN_Fold_and_Merge_Linked_List.csproj", "{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cn_Reverse_The_Groups", "Cn_Reverse_The_Groups\Cn_Reverse_The_Groups.csproj", "{7E8CCD47-8453-4952-996E-1BA901CE1D81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Love_Bubber_Tree_Series", "Love_Bubber_Tree_Series", "{5500616B-EA17-48BD-8FF3-26F254F6FE95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary_Tree", "Binary_Tree", "{4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creation_Level_Order_In_Pre_Post_Create_Tree_From_Level_Order", "Creation_Level_Order_In_Pre_Post_Create_Tree_From_Level_Order\Creation_Level_Order_In_Pre_Post_Create_Tree_From_Level_Order.csproj", "{D5862B19-3C7E-4B05-8BC5-6069B1B168D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build_Tree_From_LevelOrder_Traversal", "Build_Tree_From_LevelOrder_Traversal\Build_Tree_From_LevelOrder_Traversal.csproj", "{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN_Count_Leaf_Nodes", "CN_Count_Leaf_Nodes\CN_Count_Leaf_Nodes.csproj", "{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Sum_Tree", "GFG_Sum_Tree\GFG_Sum_Tree.csproj", "{410CF75A-1340-4089-BE0D-8BEE38A1F236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN_Ways_To_Make_Coin_Change", "CN_Ways_To_Make_Coin_Change\CN_Ways_To_Make_Coin_Change.csproj", "{AC11DAF3-D6D8-4C80-A050-BA22235E32E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFG_Sum_of_the_Longest_Bloodline_of_a_Tree", "GFG_Sum_of_the_Longest_Bloodline_of_a_Tree\GFG_Sum_of_the_Longest_Bloodline_of_a_Tree.csproj", "{0578950C-F0D5-442E-BCFA-4F3EE57F692C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1806,6 +1854,86 @@ Global
 		{87AA7F7E-6536-400B-A51B-00D785F2AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87AA7F7E-6536-400B-A51B-00D785F2AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87AA7F7E-6536-400B-A51B-00D785F2AFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D07FBC-D486-4502-9F05-0B81FE530D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D07FBC-D486-4502-9F05-0B81FE530D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D07FBC-D486-4502-9F05-0B81FE530D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D07FBC-D486-4502-9F05-0B81FE530D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71063BC4-88ED-4154-8FAC-1C1033F63AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71063BC4-88ED-4154-8FAC-1C1033F63AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71063BC4-88ED-4154-8FAC-1C1033F63AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71063BC4-88ED-4154-8FAC-1C1033F63AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251E765D-5BDF-4E37-A983-B6F4202488BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251E765D-5BDF-4E37-A983-B6F4202488BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251E765D-5BDF-4E37-A983-B6F4202488BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251E765D-5BDF-4E37-A983-B6F4202488BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F98FF9-3F84-4B1B-BD49-370ABABE975B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F98FF9-3F84-4B1B-BD49-370ABABE975B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F98FF9-3F84-4B1B-BD49-370ABABE975B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F98FF9-3F84-4B1B-BD49-370ABABE975B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372C9882-712E-455B-9C26-C50E4350B914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372C9882-712E-455B-9C26-C50E4350B914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372C9882-712E-455B-9C26-C50E4350B914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372C9882-712E-455B-9C26-C50E4350B914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2A4F50-C297-4420-9F41-A6C032C54478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2A4F50-C297-4420-9F41-A6C032C54478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2A4F50-C297-4420-9F41-A6C032C54478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2A4F50-C297-4420-9F41-A6C032C54478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7E2771-322C-421C-BA44-2475B4EDBDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7E2771-322C-421C-BA44-2475B4EDBDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7E2771-322C-421C-BA44-2475B4EDBDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7E2771-322C-421C-BA44-2475B4EDBDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC5EE32-B208-416C-B950-3D5BA064F595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5EE32-B208-416C-B950-3D5BA064F595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5EE32-B208-416C-B950-3D5BA064F595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5EE32-B208-416C-B950-3D5BA064F595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87AD50E-CEF5-472A-B15C-7BE05B9EED62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87AD50E-CEF5-472A-B15C-7BE05B9EED62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87AD50E-CEF5-472A-B15C-7BE05B9EED62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87AD50E-CEF5-472A-B15C-7BE05B9EED62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA9D30B-48DB-445A-8DA5-F94E1E01B904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA9D30B-48DB-445A-8DA5-F94E1E01B904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA9D30B-48DB-445A-8DA5-F94E1E01B904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA9D30B-48DB-445A-8DA5-F94E1E01B904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8CCD47-8453-4952-996E-1BA901CE1D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8CCD47-8453-4952-996E-1BA901CE1D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8CCD47-8453-4952-996E-1BA901CE1D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8CCD47-8453-4952-996E-1BA901CE1D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5862B19-3C7E-4B05-8BC5-6069B1B168D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5862B19-3C7E-4B05-8BC5-6069B1B168D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5862B19-3C7E-4B05-8BC5-6069B1B168D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5862B19-3C7E-4B05-8BC5-6069B1B168D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410CF75A-1340-4089-BE0D-8BEE38A1F236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410CF75A-1340-4089-BE0D-8BEE38A1F236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410CF75A-1340-4089-BE0D-8BEE38A1F236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410CF75A-1340-4089-BE0D-8BEE38A1F236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC11DAF3-D6D8-4C80-A050-BA22235E32E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC11DAF3-D6D8-4C80-A050-BA22235E32E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC11DAF3-D6D8-4C80-A050-BA22235E32E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC11DAF3-D6D8-4C80-A050-BA22235E32E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0578950C-F0D5-442E-BCFA-4F3EE57F692C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0578950C-F0D5-442E-BCFA-4F3EE57F692C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0578950C-F0D5-442E-BCFA-4F3EE57F692C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0578950C-F0D5-442E-BCFA-4F3EE57F692C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2088,6 +2216,29 @@ Global
 		{4ACAC02A-816E-47B5-BD03-FA61CF461685} = {ED80320B-9566-4B78-B4E6-FBBE0B3F03DF}
 		{CCF6024B-3A4B-4A00-A1E8-5FE8E1981609} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
 		{87AA7F7E-6536-400B-A51B-00D785F2AFBC} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{E3D07FBC-D486-4502-9F05-0B81FE530D80} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{49575375-A5B8-4622-A0A2-B072A7DA51F8} = {FD7DC864-00C6-4B51-BFC9-DB795F326D2B}
+		{71063BC4-88ED-4154-8FAC-1C1033F63AD4} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{251E765D-5BDF-4E37-A983-B6F4202488BA} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{75F98FF9-3F84-4B1B-BD49-370ABABE975B} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{372C9882-712E-455B-9C26-C50E4350B914} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{BB2A4F50-C297-4420-9F41-A6C032C54478} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{FA7E2771-322C-421C-BA44-2475B4EDBDEA} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{7E9A9EA1-CE2A-44C8-B25C-FFDA43CC54FA} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{7CC5EE32-B208-416C-B950-3D5BA064F595} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{653C9F49-F1E8-4655-9E79-2DC4A9B2FC22} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{E87AD50E-CEF5-472A-B15C-7BE05B9EED62} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{ABA9D30B-48DB-445A-8DA5-F94E1E01B904} = {49575375-A5B8-4622-A0A2-B072A7DA51F8}
+		{824D3311-3755-4C6D-8C4C-F98BEDFFEB4B} = {AE0290B4-53F4-4BED-AAA9-D9A143DD060F}
+		{7E8CCD47-8453-4952-996E-1BA901CE1D81} = {ED80320B-9566-4B78-B4E6-FBBE0B3F03DF}
+		{5500616B-EA17-48BD-8FF3-26F254F6FE95} = {E2BE1C65-EDC6-4DBC-A9C8-F8095A01C7FA}
+		{4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9} = {5500616B-EA17-48BD-8FF3-26F254F6FE95}
+		{D5862B19-3C7E-4B05-8BC5-6069B1B168D3} = {4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}
+		{B9BD8E4C-9ED1-42CE-96F4-5B0D72D469F2} = {4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}
+		{A8BB83F2-2E2D-4A82-B3E6-4063EE3669B9} = {4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}
+		{410CF75A-1340-4089-BE0D-8BEE38A1F236} = {4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}
+		{AC11DAF3-D6D8-4C80-A050-BA22235E32E6} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{0578950C-F0D5-442E-BCFA-4F3EE57F692C} = {4AF6D9AC-C706-4CC7-ADA6-A9D0CB5FA2E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}
