@@ -81,7 +81,7 @@ namespace _206._Reverse_Linked_List
             ListNode prev = null;
             ListNode cur = head;
 
-            Reverse(ref head, ref cur, ref prev);
+            Reverse(ref head, cur, prev);
             return prev;
         }
     }

@@ -21,9 +21,11 @@ namespace Reduce_Sum
                 }
             }
 
-            int[] count = new int[];
+            //int[] count = new int[];
 
-            return count;
+            //return count;
+
+            return 0;
 
         }
     }
