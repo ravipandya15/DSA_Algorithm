@@ -52,7 +52,7 @@ namespace _225._Implement_Stack_using_Queues
 
             public int Pop()
             {
-                return q1.Dequeue(); 
+                return q1.Dequeue();
             }
 
             public int Top()

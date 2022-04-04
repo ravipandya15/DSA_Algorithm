@@ -13,7 +13,7 @@ namespace _53._Maximum_Subarray
             Console.ReadLine();
         }
 
-        // kadan's algorithm
+        // kadane's algorithm
         // used to find maximum sum of sub array(continues (containing min 1 number)) from the array.
         public static int MaxSubArray(int[] nums)
         {

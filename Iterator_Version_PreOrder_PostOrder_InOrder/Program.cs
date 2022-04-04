@@ -25,7 +25,7 @@ namespace Iterator_Version_PreOrder_PostOrder_InOrder
 
         // TC -> O(N)
         // SC -> O(N) 
-        public static IList<int> inorderTraversal(TreeNode root)
+        public static IList<int> PreOrderTraversal(TreeNode root)
         {
             IList<int> result = new List<int>();
             if (root == null) return result;
@@ -128,7 +128,7 @@ namespace Iterator_Version_PreOrder_PostOrder_InOrder
                         temp = stack.Peek();
                         stack.Pop();
                         postOrder.Add(temp.val);
-                        if (stack.Count > 0 && temp == stack.Peek().right)
+                        while (stack.Count > 0 && temp == stack.Peek().right)
                         {
                             temp = stack.Peek();
                             stack.Pop();

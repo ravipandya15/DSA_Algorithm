@@ -63,7 +63,7 @@ namespace _222._Count_Complete_Tree_Nodes
             int lh = findLeftHeight(root);
             int rh = findRightHeight(root);
 
-            if (lh == rh) return (1 << lh) - 1;
+            if (lh == rh) return (1 << lh) - 1; // 1 << lh means 2^lh 
 
             return 1 + CountNodes(root.left) + CountNodes(root.right);
         }

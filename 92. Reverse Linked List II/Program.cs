@@ -68,7 +68,7 @@ namespace _92._Reverse_Linked_List_II
                 leftNode.next = prevNode;
                 prevNode = leftNode;
                 leftNode = next;
-                loopCount--;
+                loopCount--;    
             }
 
             if (flag == 1)

@@ -17,7 +17,7 @@ namespace Implementation_of_Stack_using_Array
 
         public void push(int data)
         {
-            if (size - top > 1) // or top < size
+            if (size - top > 1) // or top < size - 1
             {
                 top++;
                 arr[top] = data;
@@ -56,6 +56,11 @@ namespace Implementation_of_Stack_using_Array
         public bool isEmpty()
         {
             return (top == -1);
+        }
+
+        public int stackSize()
+        {
+            return top + 1;
         }
     }
 

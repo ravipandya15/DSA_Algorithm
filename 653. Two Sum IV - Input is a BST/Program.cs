@@ -81,5 +81,13 @@ namespace _653._Two_Sum_IV___Input_is_a_BST
             }
             return false;
         }
+
+        //CN
+        //public static bool twoSumInBST(BinaryTreeNode<Integer> root, int target)
+        //{
+        //    // Write your code here!
+        //    //Code is in 
+
+        //}
     }
 }

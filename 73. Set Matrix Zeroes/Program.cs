@@ -67,10 +67,7 @@ namespace _73._Set_Matrix_Zeroes
             int col = 1;
             for (int i = 0; i < matrix.Length; i++)
             {
-                if (matrix[i][0] == 0)
-                {
-                    col = 0;
-                }
+                if (matrix[i][0] == 0) col = 0;
 
                 for (int j = 1; j < matrix[0].Length; j++)
                 {
@@ -90,10 +87,7 @@ namespace _73._Set_Matrix_Zeroes
                         matrix[i][j] = 0;
                     }
                 }
-                if (col == 0)
-                {
-                    matrix[i][0] = 0;
-                }
+                if (col == 0) matrix[i][0] = 0;
             }
         }
     }

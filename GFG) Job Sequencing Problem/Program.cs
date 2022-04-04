@@ -49,7 +49,7 @@ namespace GFG__Job_Sequencing_Problem
             }
 
             int[] result = new int[maxDeadline + 1]; // for 1 based indexing
-            for (int i = 0; i < result.Length; i++)
+            for (int i = 1; i <= maxDeadline; i++)
             {
                 result[i] = -1;
             }

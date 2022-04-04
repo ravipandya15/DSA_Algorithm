@@ -15,7 +15,7 @@ namespace _19._Remove_Nth_Node_From_End_of_List
             ListNode node2 = new ListNode(4, node3);
             ListNode head = new ListNode(2, node2);
 
-            ListNode ans = RemoveNthFromEnd(head, 4);
+            ListNode ans = RemoveNthFromEnd(head, 5);
 
             Console.ReadLine();
         }
