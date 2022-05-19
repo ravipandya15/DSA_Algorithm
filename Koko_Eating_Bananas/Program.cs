@@ -23,6 +23,9 @@ namespace Koko_Eating_Bananas
             return possibleans <= h;
         }
 
+
+
+        // Check C++ Code
         public static int MinimumBananas(int[] bananas, int h)
         {
             if (bananas == null && bananas.Length == 0)
@@ -37,6 +40,7 @@ namespace Koko_Eating_Bananas
             while (low < high)
             {
                 mi = Convert.ToInt32(Math.Floor((Convert.ToDecimal(low) + Convert.ToDecimal(high)) / 2));
+                //mi = (low + high) / 2;
                 if (possible(bananas, mi, h))
                 {
                     high = mi;

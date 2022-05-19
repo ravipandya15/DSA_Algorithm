@@ -31,7 +31,6 @@ namespace _237._Delete_Node_in_a_Linked_List
 
             // if node is tail node
             // if else condition
-
             if (node.next == null)
             {
                 node = null;

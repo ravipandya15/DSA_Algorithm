@@ -3,12 +3,35 @@ using System.Collections.Generic;
 
 namespace Largest_subarray_with_0_sum
 {
-    class Program
+
+    public static class MyClass
+    {
+        public static bool isGreaterThan(this int i, int value)
+        {
+            return i > value;
+        }
+    }
+
+class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Largest subarray with 0 sum");
             int[] nums = new int[] { 1, -1, 3, 2, -2, -8, 1, 7, 10, 23 };
+
+            // Extention method in C#
+            nums[1].isGreaterThan(4);
+
+            Dictionary<int, string> map = new Dictionary<int, string>();
+
+            // iterate over Dictionary
+            // iterate over Map
+            foreach (var i in map)
+            {
+                Console.WriteLine(i.Key);
+                Console.WriteLine(i.Value);
+            }
+
             Console.WriteLine($"Answer is {LargestSetWithSumZero(nums)}");
             Console.ReadLine();
         }
@@ -21,6 +44,7 @@ namespace Largest_subarray_with_0_sum
             int maxi = 0;
             int sum = 0;
             Dictionary<int, int> hashMap = new Dictionary<int, int>();
+
 
             for (int i = 0; i < nums.Length; i++)
             {
