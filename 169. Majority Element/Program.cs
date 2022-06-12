@@ -25,7 +25,7 @@ namespace _169._Majority_Element
                 {
                     el = nums[i];
                 }
-                if (el == nums[i])
+                if (el == nums[i]) // if (nums[i] == el)
                 {
                     count++;
                 }
