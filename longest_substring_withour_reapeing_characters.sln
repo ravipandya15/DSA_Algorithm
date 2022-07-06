@@ -788,7 +788,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Maximum_trains_for_whic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Find_Missing_And_Repeating", "GFG_Find_Missing_And_Repeating\GFG_Find_Missing_And_Repeating.csproj", "{112F89E3-5BCA-46F5-AC77-875DD386D7D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GFG_Total_Decoding_Messages", "GFG_Total_Decoding_Messages\GFG_Total_Decoding_Messages.csproj", "{DBD9B429-E3C8-4046-81B1-BA76B4475C5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decode_Ways_91_GFG_Total_Decoding_Messages", "GFG_Total_Decoding_Messages\Decode_Ways_91_GFG_Total_Decoding_Messages.csproj", "{DBD9B429-E3C8-4046-81B1-BA76B4475C5B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141. Linked List Cycle", "141. Linked List Cycle\141. Linked List Cycle.csproj", "{BD1990EE-7C05-4932-B2AA-A0B113EB2580}"
 EndProject
@@ -814,9 +814,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combination_Sum_III_216", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reorder_List_143", "Reorder_List_143\Reorder_List_143.csproj", "{FC317CCC-AB7E-4F24-AA86-6AE40DF7EE82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isomorphic_Strings_205", "Isomorphic_Strings_205\Isomorphic_Strings_205.csproj", "{2FA2C0A6-9197-4151-B3C0-9D0764ECFAFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isomorphic_Strings_205", "Isomorphic_Strings_205\Isomorphic_Strings_205.csproj", "{2FA2C0A6-9197-4151-B3C0-9D0764ECFAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum_With_Multiplicity_923", "3Sum_With_Multiplicity_923\3Sum_With_Multiplicity_923.csproj", "{9F4619F5-AD30-4312-A865-74EF909F74E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Sum_With_Multiplicity_923", "3Sum_With_Multiplicity_923\3Sum_With_Multiplicity_923.csproj", "{9F4619F5-AD30-4312-A865-74EF909F74E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41. First Missing Positive", "41. First Missing Positive\41. First Missing Positive.csproj", "{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum_Cost_For_Tickets_983", "Minimum_Cost_For_Tickets_983\Minimum_Cost_For_Tickets_983.csproj", "{7103366A-63EC-4598-86BC-ECDA15B217D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "452. Minimum Number of Arrows to Burst Balloons", "452. Minimum Number of Arrows to Burst Balloons\452. Minimum Number of Arrows to Burst Balloons.csproj", "{1042D449-9660-49C4-8A26-EEA26199E268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_Game_II_45", "Jump_Game_II_45\Jump_Game_II_45.csproj", "{A7D4D827-2AF8-41D6-BB56-A5978AA9518A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1140. Stone Game II", "1140. Stone Game II\1140. Stone Game II.csproj", "{515A16E0-9627-4318-B583-FE91608D706E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "221. Maximal Square", "221. Maximal Square\221. Maximal Square.csproj", "{36873013-117D-4B64-96A5-05DF0053F4EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2248,6 +2260,30 @@ Global
 		{9F4619F5-AD30-4312-A865-74EF909F74E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4619F5-AD30-4312-A865-74EF909F74E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4619F5-AD30-4312-A865-74EF909F74E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7103366A-63EC-4598-86BC-ECDA15B217D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7103366A-63EC-4598-86BC-ECDA15B217D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7103366A-63EC-4598-86BC-ECDA15B217D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7103366A-63EC-4598-86BC-ECDA15B217D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1042D449-9660-49C4-8A26-EEA26199E268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1042D449-9660-49C4-8A26-EEA26199E268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1042D449-9660-49C4-8A26-EEA26199E268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1042D449-9660-49C4-8A26-EEA26199E268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D4D827-2AF8-41D6-BB56-A5978AA9518A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D4D827-2AF8-41D6-BB56-A5978AA9518A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D4D827-2AF8-41D6-BB56-A5978AA9518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D4D827-2AF8-41D6-BB56-A5978AA9518A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515A16E0-9627-4318-B583-FE91608D706E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515A16E0-9627-4318-B583-FE91608D706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515A16E0-9627-4318-B583-FE91608D706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515A16E0-9627-4318-B583-FE91608D706E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36873013-117D-4B64-96A5-05DF0053F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36873013-117D-4B64-96A5-05DF0053F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36873013-117D-4B64-96A5-05DF0053F4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36873013-117D-4B64-96A5-05DF0053F4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2611,6 +2647,12 @@ Global
 		{FC317CCC-AB7E-4F24-AA86-6AE40DF7EE82} = {752CFE8E-75E8-4417-9179-F959A2DEEBF7}
 		{2FA2C0A6-9197-4151-B3C0-9D0764ECFAFD} = {34D8728C-1330-4593-9FF1-B08A754683EF}
 		{9F4619F5-AD30-4312-A865-74EF909F74E6} = {15054241-B50F-4720-B6CE-5E8C4D6A09A8}
+		{5F5BC57A-9F1B-49A1-98F2-0CBC1861BD70} = {26187D66-2F6B-4FED-B860-2F661714A4C7}
+		{7103366A-63EC-4598-86BC-ECDA15B217D9} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{1042D449-9660-49C4-8A26-EEA26199E268} = {47F8376C-80DA-4166-B08B-683EEB359CE1}
+		{A7D4D827-2AF8-41D6-BB56-A5978AA9518A} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{515A16E0-9627-4318-B583-FE91608D706E} = {B3C3B940-053E-4D9C-80F9-1FF534DD6EDE}
+		{36873013-117D-4B64-96A5-05DF0053F4EE} = {D0E83ACB-9BF4-4267-B414-336382D733F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235D2F98-EA16-4188-B5D2-17798985A8DD}

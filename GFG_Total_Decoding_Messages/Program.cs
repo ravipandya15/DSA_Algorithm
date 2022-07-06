@@ -70,7 +70,7 @@ namespace GFG_Total_Decoding_Messages
 			return solve1(n, str);
 		}
 
-		// Memoization
+		
 		public static int solve2(int ind, string s, int[] dp)
 		{
 			// base case
@@ -95,7 +95,8 @@ namespace GFG_Total_Decoding_Messages
 			return dp[ind] = count;
 		}
 
-		// convert to 1 based indexing
+		// 1 based indexing
+		// Memoization
 		public static int CountWays2(string str)
 		{
 			int n = str.Length;
