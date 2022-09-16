@@ -11,6 +11,22 @@ namespace _231._Power_of_Two
             Console.ReadLine();
         }
 
+        public static bool IsPowerOfTwo_1(int n)
+        {
+            int count = 0;
+            while (n > 0)
+            {
+                if (Convert.ToBoolean(n & 1))
+                {
+                    count++;
+                    if (count > 1) return false;
+                }
+                n = n >> 1;
+            }
+            if (count == 1) return true;
+            return false;
+        }
+
         public static bool IsPowerOfTwo(int n)
         {
             int ans = 1;

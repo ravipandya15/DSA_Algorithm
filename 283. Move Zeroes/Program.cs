@@ -14,6 +14,7 @@ namespace _283._Move_Zeroes
 
         public static void MoveZeroes(int[] nums)
         {
+            // we also need to maintain relative order of the non - zero elements in nums 
             int i = 0;
             for (int j = 0; j < nums.Length; j++)
             {
