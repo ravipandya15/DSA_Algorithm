@@ -76,9 +76,21 @@ namespace GFG__Rat_in_a_Maze_Problem___I
             return ans;
         }
 
-        //approach -1 
+        //approach -1
         public static void Solve1(int i, int j, int[][] m, int[,] visited, string move, int n, IList<string> ans)
         {
+            // THIS APPROACH IS ALSO WORKING FINE
+            // TESTED AND VERIFIED IN JAVA CODE -> CHECK JAVA CODE (LITTLE BIT DIFF BUT I CAN UNDERSTAND)
+
+            // we can also do like this
+            //before calling Solve1 mark visited[0][0] = 1;
+            //now before going to next i and next j mark visited[i + 1][j] = 1;
+            // and after calling Solve(i+1, j) mark visited[i+1][j] = 0;
+
+            //for all path down, left, right, up
+
+
+
             // base condition
             if (i == n - 1 && j == n - 1)
             {

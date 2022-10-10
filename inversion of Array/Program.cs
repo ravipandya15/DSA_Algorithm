@@ -19,11 +19,11 @@ namespace inversion_of_Array
         public static int merge(int[] arr,int[] temp, int left, int mid, int right)
         {
             // we passed mid + 1
-            // so left to mid is left-array and mid + 1 to right is right-array
+            // so left to mid - 1 is left-array and mid to right is right-array
             int inv_Count = 0;
             int i = left;
             int j = mid;
-            int k = left;
+            int k = left; // pointer to add data in temp array and at last we copy data from temp to original arr array.
 
             while ((i <= mid - 1) && (j <= right))
             {
@@ -60,9 +60,9 @@ namespace inversion_of_Array
         {
             int inv_Count = 0;
 
-            if (right > left)
+            if (right > left) // left <= right
             {
-                int mid = (left + right) / 2;
+                int mid = (left + right) / 2; // left + (right - left) / 2;
                 inv_Count = mergeSort(arr,temp, left, mid);
                 inv_Count += mergeSort(arr,temp, mid + 1, right);
                 inv_Count += merge(arr, temp, left, mid + 1, right);

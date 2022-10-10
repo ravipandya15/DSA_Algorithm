@@ -18,7 +18,7 @@ namespace GFG__Minimum_Platforms
             Array.Sort(arr);
             Array.Sort(dep);
 
-            int platform = 1, result = 1;
+            int platform = 1, result = 1; // platform indicates at a time how many patforms are required.
             int i = 1, j = 0;
 
             while (i < n && j < n)

@@ -34,7 +34,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		DataStructures.txt = DataStructures.txt
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackSpace_String_Compare", "BackSpace_String_Compare\BackSpace_String_Compare.csproj", "{5F00C08C-A0B0-4BBD-8AB2-AE5ED7ABF815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backspace_String_Compare_844", "BackSpace_String_Compare\Backspace_String_Compare_844.csproj", "{5F00C08C-A0B0-4BBD-8AB2-AE5ED7ABF815}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koko_Eating_Bananas", "Koko_Eating_Bananas\Koko_Eating_Bananas.csproj", "{C480CD62-708C-48A3-9ADE-62A9F598DA08}"
 EndProject
@@ -846,9 +846,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Regular Expression Matc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1155. Number of Dice Rolls With Target Sum", "1155. Number of Dice Rolls With Target Sum\1155. Number of Dice Rolls With Target Sum.csproj", "{5B620B51-6F99-4686-B8A7-3838A2C35454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "842. Split Array into Fibonacci Sequence", "842. Split Array into Fibonacci Sequence\842. Split Array into Fibonacci Sequence.csproj", "{65A8E4F6-7158-457B-A600-405F77FFC907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "842. Split Array into Fibonacci Sequence", "842. Split Array into Fibonacci Sequence\842. Split Array into Fibonacci Sequence.csproj", "{65A8E4F6-7158-457B-A600-405F77FFC907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "501. Find Mode in Binary Search Tree", "501. Find Mode in Binary Search Tree\501. Find Mode in Binary Search Tree.csproj", "{EA0A7B52-FE3A-4CBE-8C86-2EBB2E7BC907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "501. Find Mode in Binary Search Tree", "501. Find Mode in Binary Search Tree\501. Find Mode in Binary Search Tree.csproj", "{EA0A7B52-FE3A-4CBE-8C86-2EBB2E7BC907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

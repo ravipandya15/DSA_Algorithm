@@ -7,7 +7,7 @@ namespace _50._Pow_x__n_
         static void Main(string[] args)
         {
             Console.WriteLine("50. Pow(x, n)");
-            Console.WriteLine($"answer is {MyPow(2, -2)}");
+            Console.WriteLine($"answer is {MyPow(2, 8)}");
             Console.WriteLine($"answer is {myPow_Recursion(2, -2)}");
             Console.ReadLine();
         }

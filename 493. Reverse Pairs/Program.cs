@@ -18,6 +18,24 @@ namespace _493._Reverse_Pairs
             int count = 0;
             int j = mid + 1;
 
+            // comented solution is also working - universal solution for pair related question
+
+
+            //int ii = low, j = mid + 1;
+
+            //while (ii <= mid && j <= high)
+            //{
+            //    if (nums[ii] > 2 * (long)nums[j])
+            //    {
+            //        count += (mid + 1) - ii;
+            //        j++;
+            //    }
+            //    else
+            //    {
+            //        ii++;
+            //    }
+            //}
+
             for (int i = low; i <= mid; i++)
             {
                 while(j <= high && nums[i] > (2 * (long)nums[j])) // here we need to convert it in long any how otherwise 2,147,483,647 will not work as we multiple it by 2 so ArrayIndexOutOfBoundException occurs.
