@@ -88,6 +88,11 @@ namespace _GFG___Medium__Flattening_a_Linked_List
             // recur for list in right
             root.next = Flatten(root.next);
 
+            // might need to set root.next = null;
+            // ListNode nextNode = root.next;
+            // root.next = null;
+            // root = MergeTwoList(root, nextNode);
+
             // now merge
             root = MergeTwoList(root, root.next);
 
