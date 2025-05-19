@@ -61,6 +61,7 @@ namespace inversion_of_Array
             int inv_Count = 0;
 
             if (right > left) // left <= right
+                // for 493. Reverse Pairs - condition is: if (low >= right) return 0. // as array containing only 1 element doesn't make any sense.
             {
                 int mid = (left + right) / 2; // left + (right - left) / 2;
                 inv_Count = mergeSort(arr,temp, left, mid);
